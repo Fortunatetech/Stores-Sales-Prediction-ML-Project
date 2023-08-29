@@ -1,0 +1,36 @@
+[ 2023-08-29 19:02:40,071 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-29 19:02:40,074 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-08-29 19:02:52,482 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:02:52] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:02:52,502 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:02:52] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:05:31,505 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:05:31] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:05:31,528 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:05:31] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:05:51,426 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:05:51] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-08-29 19:05:51,507 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:05:51] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:05:51,534 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:05:51] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:05:51,588 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:05:51] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:05:51,638 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:05:51] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:08:29,419 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:08:29] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:08:29,435 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:08:29] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:09:23,686 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:23] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-08-29 19:09:23,756 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:23,764 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:23,850 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:23,865 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:28,699 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:28] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:09:28,717 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:28] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:09:41,498 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:41] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-08-29 19:09:41,537 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:41] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:41,549 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:41] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:41,638 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:41] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:41,653 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:41] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 19:09:45,932 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:45] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:09:45,948 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:09:45] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:10:19,731 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:10:19] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:10:19,752 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:10:19] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:10:40,181 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:10:40] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:10:40,211 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:10:40] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:10:59,663 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:10:59] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:10:59,685 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:10:59] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:11:21,899 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:11:21] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:11:21,933 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:11:21] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:13:02,540 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\desktop\\ineuron\\sales prediction project\\src\\components\\data_preprocessing.py', reloading

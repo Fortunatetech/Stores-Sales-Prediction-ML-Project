@@ -1,16 +1,18 @@
 body {
-    background-color: #e1f4f3;
+    background-color: #f5f5f5; /* Light gray background */
     text-align: center;
+    padding-top: 20px; /* Add some top padding to center content */
 }
 
 .navbar {
-    background-color: #333333;
+    background-color: #007bff; /* Blue navbar */
+    color: white; /* White text on the navbar */
 }
 
-a {
-    color: #f1f9f9;
+.navbar a {
+    color: white;
 }
 
-a:hover {
-    color: #f0f0f0;
-  }
+.navbar a:hover {
+    color: #f0f0f0; /* Light gray on hover */
+}

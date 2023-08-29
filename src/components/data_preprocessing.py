@@ -30,12 +30,9 @@ class DataCleaning:
             df_test=pd.read_csv("artifacts/test.csv")
         
             logging.info('Read the dataset as dataframe')
-            # Drop rows with missing values
-            df_train = df_train.dropna()
-            df_test = df_test.dropna()
             #creating our new column for both datasets
-            df_train['Outlet_Age']= df_train['Outlet_Establishment_Year'].apply(lambda year: 2023 - year)
-            df_test['Outlet_Age']= df_test['Outlet_Establishment_Year'].apply(lambda year: 2023 - year)
+            df_train['Outlet_Age']= df_train['Outlet_Establishment_Year'].apply(lambda year: 2023 - year).astype(int)
+            df_test['Outlet_Age']= df_test['Outlet_Establishment_Year'].apply(lambda year: 2023 - year).astype(int)
             # Standardize values in the 'Item_Fat_Content' column
             df_train['Item_Fat_Content'] = df_train['Item_Fat_Content'].replace({'LF': 'Low Fat', 'low fat': 'Low Fat', 'reg': 'Regular'})
             df_train.drop(['Item_Identifier','Outlet_Identifier', 'Item_Visibility', 'Outlet_Establishment_Year'], axis = 1, inplace  = True)

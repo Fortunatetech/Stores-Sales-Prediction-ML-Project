@@ -1,0 +1,6 @@
+[ 2023-08-29 19:17:23,529 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-29 19:17:23,532 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-08-29 19:17:27,876 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:17:27] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:17:27,894 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:17:27] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 19:18:01,865 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:18:01] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 19:18:01,879 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 19:18:01] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -

@@ -1,0 +1,10 @@
+[ 2023-08-29 23:22:50,401 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-29 23:22:50,441 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-08-29 23:22:55,007 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 23:22:55] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 23:22:55,042 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 23:22:55] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 23:23:19,167 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 23:23:19] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-08-29 23:23:19,217 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 23:23:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-29 23:23:19,218 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 23:23:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-29 23:23:19,282 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 23:23:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 23:23:19,353 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 23:23:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-29 23:24:37,758 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Desktop\\iNeuron\\Sales Prediction Project\\src\\pipeline\\predict_pipeline.py', reloading
