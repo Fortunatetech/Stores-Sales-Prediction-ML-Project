@@ -1,0 +1,45 @@
+[ 2023-08-29 21:17:41,135 ] 187 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-08-29 21:17:41,136 ] 187 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-08-29 21:17:58,348 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 21:17:58] "GET / HTTP/1.1" 200 -
+[ 2023-08-29 21:18:07,031 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 21:18:07] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-29 21:18:07,046 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 21:18:07] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-29 21:21:40,289 ] 1414 app - ERROR - Exception on /predictdata [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\src\utils.py", line 57, in load_object
+    with open(file_path, "rb") as file_obj:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts\\proprocessor.pkl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\src\pipeline\predict_pipeline.py", line 17, in predict
+    preprocessor=load_object(file_path=preprocessor_path)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\src\utils.py", line 61, in load_object
+    raise CustomException(e, sys)
+src.exception.CustomException: Error occured in python script name [C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\src\utils.py] line number [57] error message[[Errno 2] No such file or directory: 'artifacts\\proprocessor.pkl']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\venv\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\venv\Lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\venv\Lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\venv\Lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\app.py", line 39, in predict_datapoint
+    results=predict_pipeline.predict(pred_df)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\src\pipeline\predict_pipeline.py", line 23, in predict
+    raise CustomException(e,sys)
+src.exception.CustomException: Error occured in python script name [C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\src\pipeline\predict_pipeline.py] line number [17] error message[Error occured in python script name [C:\Users\HP\Desktop\iNeuron\Sales Prediction Project\src\utils.py] line number [57] error message[[Errno 2] No such file or directory: 'artifacts\\proprocessor.pkl']]
+[ 2023-08-29 21:21:40,291 ] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 21:21:40] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
