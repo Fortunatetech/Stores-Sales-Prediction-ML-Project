@@ -1,0 +1,942 @@
+Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+14.3,Regular,0.026299797,Frozen Foods,79.4302,1987,High,Tier 3,Supermarket Type1,1743.0644
+7.93,,0.07113587,Health and Hygiene,42.7086,1997,Small,Tier 1,Supermarket Type1,356.8688
+14.5,Regular,0.041313203,Canned,42.0454,1999,Medium,Tier 1,Supermarket Type1,377.5086
+10.195,Low Fat,0.012455787,Meat,197.511,2004,Small,Tier 2,Supermarket Type1,2356.932
+9.5,,0.041951439,Soft Drinks,32.49,1999,Medium,Tier 1,Supermarket Type1,865.54
+10.5,,0.013551445,Snack Foods,142.0154,2009,Medium,Tier 3,Supermarket Type2,2410.8618
+14.0,Low Fat,0.023831558,Baking Goods,103.1332,2009,Medium,Tier 3,Supermarket Type2,1948.1308
+8.51,,0.016176344,Household,192.1478,2009,Medium,Tier 3,Supermarket Type2,1937.478
+9.8,Regular,0.0,Baking Goods,49.2008,1987,High,Tier 3,Supermarket Type1,657.8104
+14.15,Low Fat,0.042180995,Dairy,52.0982,1997,Small,Tier 1,Supermarket Type1,578.5802
+6.825,Low Fat,0.059835659,Health and Hygiene,264.3226,2004,Small,Tier 2,Supermarket Type1,4229.1616
+11.15,Regular,0.105287746,Baking Goods,103.2648,2004,Small,Tier 2,Supermarket Type1,2388.8904
+18.85,,0.068059156,Dairy,120.344,1999,Medium,Tier 1,Supermarket Type1,1797.66
+7.96,Low Fat,0.028339599,Canned,162.4894,1987,High,Tier 3,Supermarket Type1,1779.6834
+13.3,,0.063664998,Frozen Foods,151.6708,1999,Medium,Tier 1,Supermarket Type1,3912.2408
+9.5,,0.0,Frozen Foods,228.4668,1999,Medium,Tier 1,Supermarket Type1,3916.2356
+13.85,Low Fat,0.056406129,Breakfast,231.43,1999,Medium,Tier 1,Supermarket Type1,3029.39
+15.5,Regular,0.085834992,Frozen Foods,49.6692,1997,Small,Tier 1,Supermarket Type1,788.3072
+11.6,,0.077164595,Frozen Foods,172.5106,1997,Small,Tier 1,Supermarket Type1,2566.659
+16.5,Low Fat,0.159690469,Snack Foods,142.4128,2004,Small,Tier 2,Supermarket Type1,575.2512
+8.235,Low Fat,0.014456938,Health and Hygiene,184.795,2004,Small,Tier 2,Supermarket Type1,1464.76
+13.65,,0.025899245,Snack Foods,81.1302,1987,High,Tier 3,Supermarket Type1,792.302
+18.7,,0.104658344,Frozen Foods,121.2072,2004,Small,Tier 2,Supermarket Type1,1470.0864
+21.25,Regular,0.009998763,Meat,182.3608,1997,Small,Tier 1,Supermarket Type1,551.2824
+12.5,Regular,0.071230537,Starchy Foods,128.102,2004,Small,Tier 2,Supermarket Type1,885.514
+8.71,Low Fat,0.121149472,Canned,93.7778,1987,High,Tier 3,Supermarket Type1,1783.6782
+7.55,Low Fat,0.027164679,Canned,152.334,2004,Small,Tier 2,Supermarket Type1,2603.278
+10.65,,0.023971463,Fruits and Vegetables,54.0272,1997,Small,Tier 1,Supermarket Type1,447.4176
+9.21,,0.008764786,Fruits and Vegetables,123.1414,1997,Small,Tier 1,Supermarket Type1,4264.449
+14.0,,0.029697925,Dairy,143.0786,1987,High,Tier 3,Supermarket Type1,3178.5292
+9.0,,0.069196376,Breakfast,54.3614,1999,Medium,Tier 1,Supermarket Type1,718.3982
+5.765,,0.0821398,Baking Goods,37.2164,1999,Medium,Tier 1,Supermarket Type1,579.246
+8.6,,0.05443912,Breads,128.831,1987,High,Tier 3,Supermarket Type1,1038.648
+6.4,,0.084885375,Frozen Foods,39.2796,1999,Medium,Tier 1,Supermarket Type1,701.7532
+19.6,,0.025286583,Health and Hygiene,151.8024,1997,Small,Tier 1,Supermarket Type1,1366.2216
+16.35,Regular,0.032538896,Meat,165.7842,1997,Small,Tier 1,Supermarket Type1,2652.5472
+17.75,,0.073396761,Seafood,35.1216,2004,Small,Tier 2,Supermarket Type1,830.9184
+12.15,Regular,0.145013434,Health and Hygiene,225.0404,2004,Small,Tier 2,Supermarket Type1,4950.8888
+14.15,Low Fat,0.03593692,Soft Drinks,41.0138,2004,Small,Tier 2,Supermarket Type1,771.6622
+20.1,,0.077389797,Health and Hygiene,60.8536,1987,High,Tier 3,Supermarket Type1,1347.5792
+14.85,Low Fat,0.060967038,Household,254.3698,2004,Small,Tier 2,Supermarket Type1,4566.0564
+18.6,Regular,0.152294691,Breakfast,98.9358,1999,Medium,Tier 1,Supermarket Type1,1508.037
+9.0,Low Fat,0.079279489,Canned,77.2644,1987,High,Tier 3,Supermarket Type1,1335.5948
+8.77,,0.046844194,Fruits and Vegetables,174.2422,1999,Medium,Tier 1,Supermarket Type1,1379.5376
+8.93,,0.0,Household,53.2614,1999,Medium,Tier 1,Supermarket Type1,552.614
+9.285,,0.049280292,Frozen Foods,245.6144,1997,Small,Tier 1,Supermarket Type1,3920.2304
+8.31,Low Fat,0.0,Snack Foods,177.4028,1997,Small,Tier 1,Supermarket Type1,3896.2616
+8.5,,0.097884718,Canned,52.5324,1997,Small,Tier 1,Supermarket Type1,1194.4452
+17.7,,0.016622448,Fruits and Vegetables,50.2034,1999,Medium,Tier 1,Supermarket Type1,1166.4816
+9.31,Low Fat,0.037923509,Frozen Foods,61.651,1987,High,Tier 3,Supermarket Type1,379.506
+17.6,,0.056379439,Frozen Foods,42.7454,1999,Medium,Tier 1,Supermarket Type1,293.6178
+17.85,,0.018097419,Health and Hygiene,96.9094,2009,Medium,Tier 3,Supermarket Type2,1332.9316
+7.475,,0.148492521,Fruits and Vegetables,240.6854,2004,Small,Tier 2,Supermarket Type1,1691.7978
+17.5,Low Fat,0.013692598,Frozen Foods,259.7304,2009,Medium,Tier 3,Supermarket Type2,3616.6256
+10.5,Regular,0.048207017,Dairy,45.9376,1997,Small,Tier 1,Supermarket Type1,575.2512
+8.485,Low Fat,0.058083831,Health and Hygiene,103.199,1987,High,Tier 3,Supermarket Type1,722.393
+15.75,Low Fat,0.165838224,Dairy,36.6506,1997,Small,Tier 1,Supermarket Type1,607.2096
+20.25,Low Fat,0.102723919,Canned,93.212,1997,Small,Tier 1,Supermarket Type1,1957.452
+15.5,,0.053362086,Soft Drinks,41.577,2004,Small,Tier 2,Supermarket Type1,735.709
+12.1,,0.029902679,Soft Drinks,144.3444,2009,Medium,Tier 3,Supermarket Type2,1161.1552
+19.2,Low Fat,0.182653772,Others,243.0196,1997,Small,Tier 1,Supermarket Type1,3374.2744
+17.7,Low Fat,0.116723677,Snack Foods,182.4266,1999,Medium,Tier 1,Supermarket Type1,5163.9448
+13.1,Low Fat,0.037574137,Fruits and Vegetables,174.2054,2004,Small,Tier 2,Supermarket Type1,3677.2134
+18.2,,0.1630653,Health and Hygiene,43.3086,2004,Small,Tier 2,Supermarket Type1,758.3462
+20.5,Regular,0.036353098,Frozen Foods,75.8696,1997,Small,Tier 1,Supermarket Type1,2386.2272
+19.35,,0.076744561,Snack Foods,113.4518,2004,Small,Tier 2,Supermarket Type1,1593.9252
+17.7,,0.0,Dairy,182.5292,1987,High,Tier 3,Supermarket Type1,2736.438
+13.35,Low Fat,0.10249212,Dairy,230.5352,2004,Small,Tier 2,Supermarket Type1,2748.4224
+21.35,Low Fat,0.068765205,Canned,260.4278,1987,High,Tier 3,Supermarket Type1,3644.5892
+7.26,Low Fat,0.014482278,Meat,118.115,2009,Medium,Tier 3,Supermarket Type2,1864.24
+9.285,Low Fat,0.021039273,Snack Foods,160.0578,1999,Medium,Tier 1,Supermarket Type1,2567.3248
+12.3,Low Fat,0.106327251,Fruits and Vegetables,172.8396,1997,Small,Tier 1,Supermarket Type1,2616.594
+18.85,Low Fat,0.016132592,Health and Hygiene,130.2626,1999,Medium,Tier 1,Supermarket Type1,3016.7398
+12.35,Low Fat,0.033754478,Meat,199.0426,2004,Small,Tier 2,Supermarket Type1,3361.6242
+9.8,,0.045266806,Baking Goods,36.9874,1997,Small,Tier 1,Supermarket Type1,705.748
+13.0,,0.154244343,Canned,77.9986,2009,Medium,Tier 3,Supermarket Type2,1168.479
+10.0,,0.038653608,Fruits and Vegetables,245.4144,1987,High,Tier 3,Supermarket Type1,7105.4176
+18.5,Low Fat,0.033997473,Others,129.9284,1999,Medium,Tier 1,Supermarket Type1,1845.5976
+16.0,Low Fat,0.090111173,Dairy,141.3154,1999,Medium,Tier 1,Supermarket Type1,3261.7542
+10.5,,0.071257912,Frozen Foods,121.3098,1997,Small,Tier 1,Supermarket Type1,843.5686
+17.25,Low Fat,0.125734578,Breakfast,41.748,2009,Medium,Tier 3,Supermarket Type2,199.74
+8.195,Regular,0.0,Baking Goods,93.1462,2009,Medium,Tier 3,Supermarket Type2,647.8234
+6.635,,0.006351876,Baking Goods,120.3098,2009,Medium,Tier 3,Supermarket Type2,1446.1176
+20.35,Regular,0.054011943,Snack Foods,116.5466,1987,High,Tier 3,Supermarket Type1,1885.5456
+11.65,,0.033830011,Seafood,111.686,1987,High,Tier 3,Supermarket Type1,1584.604
+18.5,,0.062510529,Frozen Foods,146.8418,2009,Medium,Tier 3,Supermarket Type2,2059.9852
+7.855,Regular,0.011261165,Canned,189.5188,1997,Small,Tier 1,Supermarket Type1,1904.188
+8.275,,0.110739031,Household,103.3306,2009,Medium,Tier 3,Supermarket Type2,2404.2038
+14.7,Low Fat,0.07229836,Fruits and Vegetables,48.2034,1997,Small,Tier 1,Supermarket Type1,874.8612
+17.35,Regular,0.056005781,Baking Goods,99.2016,1999,Medium,Tier 1,Supermarket Type1,1518.024
+17.75,Regular,0.075959623,Baking Goods,112.4544,1997,Small,Tier 1,Supermarket Type1,2460.7968
+20.7,,0.04875891,Fruits and Vegetables,37.3506,1997,Small,Tier 1,Supermarket Type1,834.9132
+6.28,Regular,0.027748176,Soft Drinks,86.5198,1999,Medium,Tier 1,Supermarket Type1,1395.5168
+9.8,,0.09046564,Others,193.6478,1997,Small,Tier 1,Supermarket Type1,3099.9648
+9.8,Low Fat,0.14061104,Baking Goods,49.8008,1997,Small,Tier 1,Supermarket Type1,809.6128
+15.3,,0.0,Household,103.5332,2004,Small,Tier 2,Supermarket Type1,3383.5956
+19.0,,0.111830282,Frozen Foods,105.4622,1987,High,Tier 3,Supermarket Type1,952.7598
+12.1,,0.016895293,Hard Drinks,178.566,2009,Medium,Tier 3,Supermarket Type2,898.83
+19.85,Regular,0.175995526,Fruits and Vegetables,224.0772,1997,Small,Tier 1,Supermarket Type1,1556.6404
+9.195,Low Fat,0.051573903,Baking Goods,79.8644,1987,High,Tier 3,Supermarket Type1,785.644
+6.42,Low Fat,0.053553794,Dairy,178.6002,1999,Medium,Tier 1,Supermarket Type1,3582.004
+9.395,Regular,0.040023967,Others,85.5908,1999,Medium,Tier 1,Supermarket Type1,1006.6896
+6.425,,0.063432676,Breakfast,132.8626,2009,Medium,Tier 3,Supermarket Type2,524.6504
+9.195,,0.051697108,Baking Goods,79.2644,1999,Medium,Tier 1,Supermarket Type1,864.2084
+12.8,Regular,0.069605676,Starchy Foods,261.9252,2004,Small,Tier 2,Supermarket Type1,4984.1788
+4.59,,0.070721656,Soft Drinks,113.286,1987,High,Tier 3,Supermarket Type1,1471.418
+14.85,Regular,0.053837561,Baking Goods,120.8072,1997,Small,Tier 1,Supermarket Type1,4287.752
+11.395,,0.009893817,Health and Hygiene,50.3034,1999,Medium,Tier 1,Supermarket Type1,972.068
+16.2,,0.103894671,Canned,101.299,2009,Medium,Tier 3,Supermarket Type2,1857.582
+6.38,Regular,0.03187163,Dairy,179.5344,1987,High,Tier 3,Supermarket Type1,4103.9912
+8.75,,0.074627201,Fruits and Vegetables,187.8556,1997,Small,Tier 1,Supermarket Type1,1314.2892
+14.15,,0.184254826,Soft Drinks,82.4276,2009,Medium,Tier 3,Supermarket Type2,1218.414
+12.15,Low Fat,0.14492016,Health and Hygiene,224.4404,1987,High,Tier 3,Supermarket Type1,1800.3232
+16.35,,0.013355306,Others,105.528,1987,High,Tier 3,Supermarket Type1,2024.032
+8.115,,0.032208865,Canned,154.9972,1999,Medium,Tier 1,Supermarket Type1,3739.1328
+16.6,Low Fat,0.0,Canned,117.3124,1987,High,Tier 3,Supermarket Type1,2014.7108
+18.75,Low Fat,0.052040915,Health and Hygiene,105.728,1997,Small,Tier 1,Supermarket Type1,2024.032
+20.6,Low Fat,0.045603215,Health and Hygiene,149.2392,2009,Medium,Tier 3,Supermarket Type2,4026.7584
+9.0,Low Fat,0.085938463,Snack Foods,168.6816,2004,Small,Tier 2,Supermarket Type1,1342.2528
+7.5,Low Fat,0.050708743,Canned,123.4072,1987,High,Tier 3,Supermarket Type1,3185.1872
+13.3,Low Fat,0.063513272,Frozen Foods,149.9708,1987,High,Tier 3,Supermarket Type1,2106.5912
+14.15,,0.024442501,Fruits and Vegetables,196.411,1999,Medium,Tier 1,Supermarket Type1,2749.754
+11.3,,0.066625843,Household,194.2478,1987,High,Tier 3,Supermarket Type1,2712.4692
+6.65,Low Fat,0.053279839,Canned,147.7734,2004,Small,Tier 2,Supermarket Type1,2078.6276
+15.0,Low Fat,0.054367971,Canned,58.5904,2004,Small,Tier 2,Supermarket Type1,996.0368
+11.6,Regular,0.017817285,Canned,177.0686,2009,Medium,Tier 3,Supermarket Type2,1422.1488
+8.42,Low Fat,0.112728355,Health and Hygiene,65.8168,2009,Medium,Tier 3,Supermarket Type2,830.9184
+11.8,,0.115636723,Soft Drinks,199.7084,2009,Medium,Tier 3,Supermarket Type2,3571.3512
+6.78,Low Fat,0.0,Baking Goods,94.012,1987,High,Tier 3,Supermarket Type1,1211.756
+8.63,,0.031143591,Snack Foods,183.9582,1999,Medium,Tier 1,Supermarket Type1,5386.9878
+15.1,Low Fat,0.056067524,Household,139.8496,2009,Medium,Tier 3,Supermarket Type2,1270.3464
+7.21,,0.144511119,Snack Foods,100.5332,1987,High,Tier 3,Supermarket Type1,2460.7968
+20.7,,0.021464454,Baking Goods,156.6288,1999,Medium,Tier 1,Supermarket Type1,3928.22
+10.195,Regular,0.107564024,Snack Foods,149.0076,1999,Medium,Tier 1,Supermarket Type1,1182.4608
+20.35,,0.060688248,Baking Goods,234.2616,2004,Small,Tier 2,Supermarket Type1,4687.232
+6.46,Regular,0.049121972,Fruits and Vegetables,144.6102,1987,High,Tier 3,Supermarket Type1,2916.204
+7.97,Regular,0.034452949,Soft Drinks,174.0422,1997,Small,Tier 1,Supermarket Type1,2586.633
+5.765,Low Fat,0.081996785,Baking Goods,40.1164,2004,Small,Tier 2,Supermarket Type1,540.6296
+13.0,,0.041816615,Household,254.5014,2004,Small,Tier 2,Supermarket Type1,4845.0266
+18.35,Low Fat,0.014045832,Household,222.7746,1999,Medium,Tier 1,Supermarket Type1,1570.6222
+5.845,Low Fat,0.105445801,Frozen Foods,214.4218,2009,Medium,Tier 3,Supermarket Type2,1496.0526
+5.19,,0.044432887,Meat,102.899,2009,Medium,Tier 3,Supermarket Type2,1651.184
+8.88,,0.098775709,Household,208.927,1999,Medium,Tier 1,Supermarket Type1,7130.718
+9.195,Low Fat,0.048050783,Household,105.6622,2004,Small,Tier 2,Supermarket Type1,1693.7952
+15.35,,0.035204319,Household,122.873,1999,Medium,Tier 1,Supermarket Type1,2832.979
+5.88,,0.003597678,Hard Drinks,153.8998,1999,Medium,Tier 1,Supermarket Type1,2922.1962
+16.75,Low Fat,0.081304829,Fruits and Vegetables,258.4988,2004,Small,Tier 2,Supermarket Type1,4111.9808
+13.1,,0.075056542,Dairy,76.0354,1999,Medium,Tier 1,Supermarket Type1,601.8832
+11.3,,0.066681333,Household,194.4478,1997,Small,Tier 1,Supermarket Type1,387.4956
+6.055,Regular,0.031103357,Fruits and Vegetables,159.9578,1997,Small,Tier 1,Supermarket Type1,2727.7826
+8.21,Low Fat,0.044925784,Dairy,86.0198,1997,Small,Tier 1,Supermarket Type1,1569.9564
+6.115,,0.011372972,Frozen Foods,89.6488,1997,Small,Tier 1,Supermarket Type1,1267.6832
+15.35,Low Fat,0.113678422,Fruits and Vegetables,189.7504,2009,Medium,Tier 3,Supermarket Type2,2492.7552
+15.5,,0.103422709,Snack Foods,144.847,2004,Small,Tier 2,Supermarket Type1,1717.764
+7.5,,0.036204764,Health and Hygiene,176.1028,1987,High,Tier 3,Supermarket Type1,1948.1308
+10.195,Regular,0.041907414,Snack Foods,43.8428,1987,High,Tier 3,Supermarket Type1,175.7712
+11.65,,0.010909704,Meat,110.8544,1987,High,Tier 3,Supermarket Type1,1677.816
+18.2,Low Fat,0.049396364,Fruits and Vegetables,146.4734,1999,Medium,Tier 1,Supermarket Type1,3563.3616
+7.51,Low Fat,0.103813029,Snack Foods,113.7544,1997,Small,Tier 1,Supermarket Type1,671.1264
+20.85,,0.021329793,Fruits and Vegetables,105.5306,1997,Small,Tier 1,Supermarket Type1,940.7754
+5.88,,0.030247903,Frozen Foods,101.399,1997,Small,Tier 1,Supermarket Type1,2063.98
+5.655,,0.175352413,Soft Drinks,147.4102,1999,Medium,Tier 1,Supermarket Type1,2478.7734
+17.6,Regular,0.047449835,Snack Foods,118.1782,2009,Medium,Tier 3,Supermarket Type2,2621.9204
+12.15,Regular,0.131179812,Frozen Foods,245.246,1997,Small,Tier 1,Supermarket Type1,3202.498
+14.0,Regular,0.023730384,Baking Goods,104.3332,2004,Small,Tier 2,Supermarket Type1,1435.4648
+16.1,,0.100388706,Fruits and Vegetables,76.0328,1999,Medium,Tier 1,Supermarket Type1,1853.5872
+10.395,,0.11207602,Snack Foods,58.022,2004,Small,Tier 2,Supermarket Type1,659.142
+5.15,Low Fat,0.06112617,Meat,122.5388,1987,High,Tier 3,Supermarket Type1,371.5164
+15.6,,0.087719692,Snack Foods,218.5798,1997,Small,Tier 1,Supermarket Type1,4407.596
+14.15,,0.037877202,Starchy Foods,124.0046,1987,High,Tier 3,Supermarket Type1,1618.5598
+12.1,Regular,0.061424738,Soft Drinks,56.7614,2009,Medium,Tier 3,Supermarket Type2,1049.9666
+15.7,Low Fat,0.03067808,Hard Drinks,44.777,1987,High,Tier 3,Supermarket Type1,605.878
+9.0,,0.069653585,Health and Hygiene,266.2884,1999,Medium,Tier 1,Supermarket Type1,2914.8724
+13.65,Regular,0.039824346,Frozen Foods,32.8558,1997,Small,Tier 1,Supermarket Type1,645.1602
+19.6,Low Fat,0.024264569,Dairy,46.5718,1999,Medium,Tier 1,Supermarket Type1,1607.2412
+9.0,Regular,0.0,Breakfast,55.2614,2009,Medium,Tier 3,Supermarket Type2,552.614
+8.355,Regular,0.187558629,Canned,148.0418,1997,Small,Tier 1,Supermarket Type1,1471.418
+19.7,,0.053212652,Fruits and Vegetables,57.893,2004,Small,Tier 2,Supermarket Type1,622.523
+10.1,Low Fat,0.027106459,Meat,75.367,1999,Medium,Tier 1,Supermarket Type1,535.969
+7.39,Low Fat,0.120280989,Others,142.747,1997,Small,Tier 1,Supermarket Type1,3149.234
+16.5,,0.035711426,Health and Hygiene,93.612,1999,Medium,Tier 1,Supermarket Type1,1584.604
+7.485,Regular,0.069405301,Snack Foods,112.1228,2009,Medium,Tier 3,Supermarket Type2,1105.228
+9.6,,0.0,Breads,101.699,1999,Medium,Tier 1,Supermarket Type1,2373.577
+6.425,Regular,0.010480751,Canned,116.5808,2009,Medium,Tier 3,Supermarket Type2,2460.7968
+9.3,Regular,0.01404119,Snack Foods,199.1084,1999,Medium,Tier 1,Supermarket Type1,396.8168
+10.5,,0.0,Starchy Foods,78.296,1997,Small,Tier 1,Supermarket Type1,1438.128
+9.3,,0.174350275,Snack Foods,104.4964,1997,Small,Tier 1,Supermarket Type1,2419.5172
+11.35,Low Fat,0.045165796,Snack Foods,100.0016,2009,Medium,Tier 3,Supermarket Type2,1012.016
+16.7,,0.119362812,Fruits and Vegetables,180.3976,1987,High,Tier 3,Supermarket Type1,3078.6592
+17.5,Low Fat,0.0,Snack Foods,102.999,1997,Small,Tier 1,Supermarket Type1,2992.771
+15.1,,0.055195461,Fruits and Vegetables,216.1166,2004,Small,Tier 2,Supermarket Type1,5007.4818
+14.6,Regular,0.025702994,Household,199.9084,1997,Small,Tier 1,Supermarket Type1,2380.9008
+6.36,,0.120543611,Fruits and Vegetables,45.806,1997,Small,Tier 1,Supermarket Type1,1165.15
+4.61,Low Fat,0.0,Hard Drinks,173.8396,1997,Small,Tier 1,Supermarket Type1,1221.0772
+12.1,,0.030121709,Canned,78.067,2004,Small,Tier 2,Supermarket Type1,2220.443
+18.2,,0.066400129,Fruits and Vegetables,250.1092,1999,Medium,Tier 1,Supermarket Type1,5727.2116
+20.6,Low Fat,0.071103348,Household,75.4696,1999,Medium,Tier 1,Supermarket Type1,1416.8224
+12.85,,0.137441201,Snack Foods,157.663,1999,Medium,Tier 1,Supermarket Type1,2659.871
+13.1,,0.044372393,Fruits and Vegetables,180.3318,2009,Medium,Tier 3,Supermarket Type2,2886.9088
+10.0,Regular,0.021407511,Household,248.175,1987,High,Tier 3,Supermarket Type1,3495.45
+8.38,Regular,0.046848322,Baking Goods,110.557,1987,High,Tier 3,Supermarket Type1,3844.995
+20.85,,0.037556341,Frozen Foods,195.3478,2009,Medium,Tier 3,Supermarket Type2,1937.478
+5.465,Low Fat,0.048518008,Baking Goods,132.9626,2004,Small,Tier 2,Supermarket Type1,2360.9268
+15.7,Regular,0.027617046,Canned,168.279,1997,Small,Tier 1,Supermarket Type1,4074.696
+8.21,Low Fat,0.044917289,Dairy,88.5198,2004,Small,Tier 2,Supermarket Type1,1133.8574
+8.77,Regular,0.046962004,Fruits and Vegetables,173.8422,2009,Medium,Tier 3,Supermarket Type2,3448.844
+15.25,Low Fat,0.089816808,Frozen Foods,217.3192,1997,Small,Tier 1,Supermarket Type1,5608.6992
+20.25,Low Fat,0.058886477,Household,245.546,1987,High,Tier 3,Supermarket Type1,1724.422
+5.82,Low Fat,0.077634044,Fruits and Vegetables,256.433,2009,Medium,Tier 3,Supermarket Type2,3844.995
+16.1,,0.023673342,Soft Drinks,189.0846,2009,Medium,Tier 3,Supermarket Type2,5350.3688
+16.25,Low Fat,0.087175137,Dairy,98.341,1997,Small,Tier 1,Supermarket Type1,1351.574
+7.63,Regular,0.135258515,Snack Foods,47.2402,2009,Medium,Tier 3,Supermarket Type2,918.804
+8.5,Regular,0.097803261,Canned,50.5324,1987,High,Tier 3,Supermarket Type1,882.8508
+13.8,Low Fat,0.058192802,Dairy,246.9802,1999,Medium,Tier 1,Supermarket Type1,5896.3248
+11.0,,0.087847141,Frozen Foods,156.863,1997,Small,Tier 1,Supermarket Type1,2972.797
+18.0,,0.124645538,Frozen Foods,117.2124,1999,Medium,Tier 1,Supermarket Type1,2133.2232
+15.7,,0.03723211,Soft Drinks,183.1634,1997,Small,Tier 1,Supermarket Type1,5634.6654
+8.35,Low Fat,0.127066966,Frozen Foods,76.5354,1999,Medium,Tier 1,Supermarket Type1,1655.1788
+20.1,Regular,0.014925407,Health and Hygiene,143.4154,1987,High,Tier 3,Supermarket Type1,3545.385
+20.2,,0.011838464,Household,155.134,1999,Medium,Tier 1,Supermarket Type1,2603.278
+19.75,,0.041533438,Fruits and Vegetables,119.8466,2009,Medium,Tier 3,Supermarket Type2,2239.0854
+15.85,Low Fat,0.110030997,Frozen Foods,37.2506,1997,Small,Tier 1,Supermarket Type1,265.6542
+7.93,Low Fat,0.071076672,Health and Hygiene,44.9086,1987,High,Tier 3,Supermarket Type1,802.9548
+6.215,Low Fat,0.012167793,Fruits and Vegetables,37.4848,1999,Medium,Tier 1,Supermarket Type1,111.8544
+14.1,,0.090043082,Canned,140.1496,2009,Medium,Tier 3,Supermarket Type2,846.8976
+13.65,,0.013035609,Fruits and Vegetables,114.7834,2004,Small,Tier 2,Supermarket Type1,3455.502
+15.6,,0.04575559,Snack Foods,167.1132,2004,Small,Tier 2,Supermarket Type1,2874.9244
+19.75,Low Fat,0.012467648,Fruits and Vegetables,188.1872,1999,Medium,Tier 1,Supermarket Type1,2458.1336
+19.2,Regular,0.100055601,Frozen Foods,112.4886,2004,Small,Tier 2,Supermarket Type1,1223.0746
+17.75,Low Fat,0.029653914,Fruits and Vegetables,140.5838,1997,Small,Tier 1,Supermarket Type1,2669.1922
+16.85,Low Fat,0.023154399,Snack Foods,43.9428,1997,Small,Tier 1,Supermarket Type1,351.5424
+8.355,Low Fat,0.187523164,Canned,146.2418,2004,Small,Tier 2,Supermarket Type1,4414.254
+21.2,Regular,0.0,Starchy Foods,173.6738,1999,Medium,Tier 1,Supermarket Type1,2954.1546
+11.35,Low Fat,0.023358738,Dairy,184.4608,1999,Medium,Tier 1,Supermarket Type1,4042.7376
+17.35,Low Fat,0.020555958,Others,79.4618,2004,Small,Tier 2,Supermarket Type1,1772.3596
+18.5,,0.052149675,Snack Foods,118.3124,1999,Medium,Tier 1,Supermarket Type1,1540.6612
+6.575,Low Fat,0.075444922,Breads,146.0444,1987,High,Tier 3,Supermarket Type1,2612.5992
+11.8,,0.115167579,Soft Drinks,199.8084,1997,Small,Tier 1,Supermarket Type1,2380.9008
+14.0,Low Fat,0.023734872,Baking Goods,103.2332,1997,Small,Tier 1,Supermarket Type1,1845.5976
+19.7,,0.0650227,Canned,87.0198,1999,Medium,Tier 1,Supermarket Type1,697.7584
+18.25,Low Fat,0.04421348,Hard Drinks,173.408,1987,High,Tier 3,Supermarket Type1,1038.648
+17.5,,0.026912667,Frozen Foods,261.291,1999,Medium,Tier 1,Supermarket Type1,3418.883
+6.32,Regular,0.012769753,Meat,39.9822,2009,Medium,Tier 3,Supermarket Type2,78.5644
+6.13,Low Fat,0.076735903,Dairy,62.4536,1997,Small,Tier 1,Supermarket Type1,1225.072
+11.3,Low Fat,0.007278512,Meat,196.7426,2004,Small,Tier 2,Supermarket Type1,2768.3964
+19.35,,0.049712775,Fruits and Vegetables,78.2644,1999,Medium,Tier 1,Supermarket Type1,1492.7236
+15.1,Regular,0.106097275,Fruits and Vegetables,43.2796,2009,Medium,Tier 3,Supermarket Type2,123.8388
+13.35,Low Fat,0.017857847,Dairy,77.5012,2009,Medium,Tier 3,Supermarket Type2,1518.024
+17.75,,0.157470693,Dairy,239.1538,2009,Medium,Tier 3,Supermarket Type2,4326.3684
+13.85,Low Fat,0.056271701,Breakfast,232.23,1987,High,Tier 3,Supermarket Type1,1398.18
+14.6,,0.150801606,Soft Drinks,48.7692,1999,Medium,Tier 1,Supermarket Type1,1231.73
+6.17,,0.010647477,Meat,66.3826,1999,Medium,Tier 1,Supermarket Type1,1937.478
+8.26,,0.032573725,Soft Drinks,125.073,2009,Medium,Tier 3,Supermarket Type2,985.384
+14.3,Regular,0.026362624,Frozen Foods,78.3302,1999,Medium,Tier 1,Supermarket Type1,1267.6832
+8.6,,0.040205535,Canned,188.753,1997,Small,Tier 1,Supermarket Type1,7590.12
+20.85,,0.121250374,Snack Foods,193.9452,1997,Small,Tier 1,Supermarket Type1,1565.9616
+14.0,Low Fat,0.031267496,Canned,51.464,1997,Small,Tier 1,Supermarket Type1,692.432
+9.195,Regular,0.107870997,Snack Foods,181.2634,2004,Small,Tier 2,Supermarket Type1,2362.9242
+12.65,,0.156679617,Fruits and Vegetables,238.8538,2009,Medium,Tier 3,Supermarket Type2,4566.7222
+19.6,Regular,0.128235131,Snack Foods,169.2816,1999,Medium,Tier 1,Supermarket Type1,1174.4712
+18.2,Regular,0.066284519,Fruits and Vegetables,247.2092,2004,Small,Tier 2,Supermarket Type1,3486.1288
+8.77,Low Fat,0.0,Fruits and Vegetables,173.6422,1987,High,Tier 3,Supermarket Type1,517.3266
+5.88,Low Fat,0.0249887,Household,150.3392,2009,Medium,Tier 3,Supermarket Type2,447.4176
+16.7,Regular,0.0,Canned,181.2292,2009,Medium,Tier 3,Supermarket Type2,2554.0088
+10.0,,0.099804623,Snack Foods,113.7544,1999,Medium,Tier 1,Supermarket Type1,3243.7776
+18.7,,0.037681448,Fruits and Vegetables,111.0886,1999,Medium,Tier 1,Supermarket Type1,222.3772
+9.395,Regular,0.100555034,Baking Goods,88.8856,1999,Medium,Tier 1,Supermarket Type1,439.428
+19.7,Regular,0.041803291,Frozen Foods,110.3912,1999,Medium,Tier 1,Supermarket Type1,3275.736
+17.85,Low Fat,0.065797601,Frozen Foods,147.805,2004,Small,Tier 2,Supermarket Type1,1947.465
+15.5,,0.053589594,Soft Drinks,44.177,2009,Medium,Tier 3,Supermarket Type2,173.108
+9.3,,0.043141572,Fruits and Vegetables,90.4172,2009,Medium,Tier 3,Supermarket Type2,1249.0408
+20.1,,0.07461309,Dairy,108.7228,2004,Small,Tier 2,Supermarket Type1,1215.7508
+6.55,,0.034575546,Breads,156.5288,1987,High,Tier 3,Supermarket Type1,1571.288
+5.095,,0.129705008,Snack Foods,141.8838,1999,Medium,Tier 1,Supermarket Type1,1966.7732
+15.1,Low Fat,0.019930418,Frozen Foods,131.531,2004,Small,Tier 2,Supermarket Type1,2856.282
+7.825,,0.150248468,Frozen Foods,155.2288,1999,Medium,Tier 1,Supermarket Type1,1257.0304
+5.615,,0.125964559,Health and Hygiene,124.773,1999,Medium,Tier 1,Supermarket Type1,2956.152
+8.155,Regular,0.033692089,Frozen Foods,76.2354,2009,Medium,Tier 3,Supermarket Type2,1279.0018
+13.1,Low Fat,0.099186992,Frozen Foods,198.7768,2009,Medium,Tier 3,Supermarket Type2,3153.2288
+10.5,Low Fat,0.013493914,Snack Foods,143.7154,2004,Small,Tier 2,Supermarket Type1,3119.9388
+12.15,Low Fat,0.132083542,Fruits and Vegetables,189.5872,1997,Small,Tier 1,Supermarket Type1,3403.5696
+7.405,Low Fat,0.015259084,Canned,91.0146,1987,High,Tier 3,Supermarket Type1,729.7168
+6.3,,0.127449031,Canned,210.527,1997,Small,Tier 1,Supermarket Type1,6291.81
+19.0,,0.128289285,Snack Foods,104.9622,1999,Medium,Tier 1,Supermarket Type1,1164.4842
+19.75,Low Fat,0.018019662,Frozen Foods,181.566,2004,Small,Tier 2,Supermarket Type1,2876.256
+15.15,,0.066279832,Frozen Foods,147.876,1999,Medium,Tier 1,Supermarket Type1,4540.756
+5.945,,0.093008616,Household,127.8652,2004,Small,Tier 2,Supermarket Type1,2195.8084
+10.195,,0.107834541,Snack Foods,146.5076,2009,Medium,Tier 3,Supermarket Type2,1330.2684
+6.92,,0.038610722,Dairy,61.4852,2009,Medium,Tier 3,Supermarket Type2,1314.2892
+7.5,Low Fat,0.096413261,Household,55.3588,1997,Small,Tier 1,Supermarket Type1,1030.6584
+21.1,Low Fat,0.010600287,Household,233.9958,2004,Small,Tier 2,Supermarket Type1,1869.5664
+11.15,,0.073354286,Others,66.8142,2004,Small,Tier 2,Supermarket Type1,2372.9112
+7.975,,0.014618973,Baking Goods,85.225,1987,High,Tier 3,Supermarket Type1,1081.925
+11.65,,0.131708682,Baking Goods,152.3024,1999,Medium,Tier 1,Supermarket Type1,1518.024
+8.93,,0.028393624,Dairy,153.434,1987,High,Tier 3,Supermarket Type1,1378.206
+15.7,Regular,0.045274134,Frozen Foods,177.966,1999,Medium,Tier 1,Supermarket Type1,3415.554
+5.8,Low Fat,0.130931048,Dairy,89.9172,2004,Small,Tier 2,Supermarket Type1,1516.6924
+9.3,Regular,0.044730667,Household,245.1802,1999,Medium,Tier 1,Supermarket Type1,2456.802
+6.65,Regular,0.087805788,Fruits and Vegetables,126.7678,1999,Medium,Tier 1,Supermarket Type1,1907.517
+19.75,Regular,0.041429246,Fruits and Vegetables,117.2466,1999,Medium,Tier 1,Supermarket Type1,2239.0854
+16.0,,0.106918052,Baking Goods,183.5634,1999,Medium,Tier 1,Supermarket Type1,4725.8484
+18.1,,0.17824575,Dairy,158.1288,1999,Medium,Tier 1,Supermarket Type1,3299.7048
+12.3,,0.036939673,Snack Foods,113.1834,1997,Small,Tier 1,Supermarket Type1,3109.9518
+16.7,,0.052401766,Frozen Foods,115.1176,2004,Small,Tier 2,Supermarket Type1,1488.7288
+7.71,,0.06670068,Snack Foods,55.2956,1999,Medium,Tier 1,Supermarket Type1,1255.6988
+19.2,,0.022914478,Fruits and Vegetables,181.195,2004,Small,Tier 2,Supermarket Type1,2380.235
+5.905,Regular,0.045614252,Canned,221.5456,1987,High,Tier 3,Supermarket Type1,6852.4136
+4.88,,0.134037,Baking Goods,53.3298,2009,Medium,Tier 3,Supermarket Type2,539.298
+13.65,,0.077169841,Health and Hygiene,55.593,1987,High,Tier 3,Supermarket Type1,282.965
+17.75,Low Fat,0.098108957,Health and Hygiene,240.9196,2009,Medium,Tier 3,Supermarket Type2,4579.3724
+15.85,,0.069043044,Breads,218.7166,1987,High,Tier 3,Supermarket Type1,4136.6154
+11.8,,0.107223632,Dairy,223.5772,1999,Medium,Tier 1,Supermarket Type1,2668.5264
+6.55,,0.034604343,Breads,157.8288,1997,Small,Tier 1,Supermarket Type1,2514.0608
+15.35,,0.074553522,Snack Foods,91.883,1987,High,Tier 3,Supermarket Type1,2606.607
+6.11,Low Fat,0.151827552,Soft Drinks,43.0086,1987,High,Tier 3,Supermarket Type1,490.6946
+16.0,,0.173027688,Snack Foods,155.2972,1999,Medium,Tier 1,Supermarket Type1,3583.3356
+8.02,Regular,0.111613921,Snack Foods,152.6998,1999,Medium,Tier 1,Supermarket Type1,3383.5956
+16.25,Regular,0.057396092,Fruits and Vegetables,125.8046,1997,Small,Tier 1,Supermarket Type1,747.0276
+20.75,,0.0,Health and Hygiene,149.4734,1987,High,Tier 3,Supermarket Type1,2969.468
+9.3,Low Fat,0.111673587,Breads,65.7826,2009,Medium,Tier 3,Supermarket Type2,968.739
+6.135,,0.079312367,Baking Goods,151.7366,2004,Small,Tier 2,Supermarket Type1,3325.0052
+6.11,Low Fat,0.103080901,Fruits and Vegetables,131.2968,1999,Medium,Tier 1,Supermarket Type1,1957.452
+14.8,Low Fat,0.043885147,Breads,108.757,2004,Small,Tier 2,Supermarket Type1,1867.569
+15.1,,0.059313603,Household,238.1248,2004,Small,Tier 2,Supermarket Type1,4266.4464
+20.0,,0.0814536,Others,36.819,1999,Medium,Tier 1,Supermarket Type1,768.999
+13.6,Regular,0.009991273,Household,175.537,2004,Small,Tier 2,Supermarket Type1,3705.177
+19.85,,0.045631231,Fruits and Vegetables,128.102,1987,High,Tier 3,Supermarket Type1,1265.02
+16.0,,0.09942555,Frozen Foods,87.0856,1999,Medium,Tier 1,Supermarket Type1,527.3136
+16.7,,0.119647957,Fruits and Vegetables,180.9976,1999,Medium,Tier 1,Supermarket Type1,4165.2448
+12.65,,0.07603021,Frozen Foods,189.0846,2004,Small,Tier 2,Supermarket Type1,4012.7766
+14.3,Low Fat,0.13030659,Baking Goods,75.7328,1987,High,Tier 3,Supermarket Type1,617.8624
+15.25,Regular,0.061184804,Household,132.0968,1997,Small,Tier 1,Supermarket Type1,3914.904
+14.0,,0.029843736,Dairy,143.9786,2009,Medium,Tier 3,Supermarket Type2,866.8716
+10.395,,0.037033223,Meat,227.9352,2009,Medium,Tier 3,Supermarket Type2,4809.7392
+11.35,Low Fat,0.043122189,Fruits and Vegetables,197.9742,1987,High,Tier 3,Supermarket Type1,995.371
+7.785,Low Fat,0.089069748,Fruits and Vegetables,62.751,2009,Medium,Tier 3,Supermarket Type2,1707.777
+12.5,,0.073721115,Canned,85.6198,2004,Small,Tier 2,Supermarket Type1,610.5386
+15.5,Regular,0.026409147,Fruits and Vegetables,102.1332,2009,Medium,Tier 3,Supermarket Type2,615.1992
+10.85,Low Fat,0.162903525,Snack Foods,104.9622,2009,Medium,Tier 3,Supermarket Type2,1482.0708
+11.15,,0.105220024,Baking Goods,102.7648,1987,High,Tier 3,Supermarket Type1,1142.5128
+17.6,Regular,0.041373331,Snack Foods,38.119,2004,Small,Tier 2,Supermarket Type1,732.38
+8.895,Regular,0.0,Breakfast,178.437,1997,Small,Tier 1,Supermarket Type1,1235.059
+6.385,Regular,0.084179812,Hard Drinks,109.0596,2009,Medium,Tier 3,Supermarket Type2,1941.4728
+9.5,,0.074345268,Snack Foods,251.9724,1997,Small,Tier 1,Supermarket Type1,3523.4136
+15.2,Low Fat,0.050168354,Soft Drinks,95.3752,2004,Small,Tier 2,Supermarket Type1,1438.128
+19.85,,0.054015429,Seafood,196.3768,2004,Small,Tier 2,Supermarket Type1,4138.6128
+15.35,,0.014007727,Frozen Foods,38.319,1987,High,Tier 3,Supermarket Type1,292.952
+10.695,Regular,0.011472001,Snack Foods,75.2038,2009,Medium,Tier 3,Supermarket Type2,517.3266
+16.7,,0.038685176,Snack Foods,146.6102,2009,Medium,Tier 3,Supermarket Type2,2770.3938
+15.7,,0.114565093,Canned,112.0202,1997,Small,Tier 1,Supermarket Type1,337.5606
+4.615,,0.101747034,Canned,231.33,1987,High,Tier 3,Supermarket Type1,4660.6
+19.1,Low Fat,0.045308131,Dairy,42.5138,1997,Small,Tier 1,Supermarket Type1,649.8208
+16.7,Low Fat,0.022047313,Dairy,110.2886,1987,High,Tier 3,Supermarket Type1,1890.2062
+15.0,,0.071371458,Health and Hygiene,125.2362,1997,Small,Tier 1,Supermarket Type1,1384.1982
+19.2,Regular,0.099991245,Frozen Foods,112.7886,1987,High,Tier 3,Supermarket Type1,1779.0176
+19.25,Low Fat,0.03467086,Canned,141.8496,1987,High,Tier 3,Supermarket Type1,2399.5432
+16.6,Regular,0.016197216,Health and Hygiene,108.8596,1987,High,Tier 3,Supermarket Type1,970.7364
+17.6,,0.05629192,Frozen Foods,42.5454,1997,Small,Tier 1,Supermarket Type1,419.454
+9.5,Low Fat,0.104421237,Canned,80.196,1987,High,Tier 3,Supermarket Type1,2157.192
+13.35,Low Fat,0.139426044,Frozen Foods,148.3392,2004,Small,Tier 2,Supermarket Type1,3877.6192
+8.85,Low Fat,0.113123893,Soft Drinks,122.5388,2009,Medium,Tier 3,Supermarket Type2,1609.9044
+17.1,Low Fat,0.067154053,Household,114.386,1997,Small,Tier 1,Supermarket Type1,1245.046
+7.42,,0.021569566,Seafood,184.8582,2004,Small,Tier 2,Supermarket Type1,4643.955
+12.1,,0.011557563,Dairy,165.3526,1999,Medium,Tier 1,Supermarket Type1,3453.5046
+15.7,Low Fat,0.037383778,Soft Drinks,179.7634,2009,Medium,Tier 3,Supermarket Type2,1817.634
+20.85,Low Fat,0.056465714,Breads,103.6648,1997,Small,Tier 1,Supermarket Type1,2285.0256
+8.395,,0.039484739,Snack Foods,97.9042,2004,Small,Tier 2,Supermarket Type1,1686.4714
+17.6,,0.049067877,Snack Foods,115.6176,1997,Small,Tier 1,Supermarket Type1,2519.3872
+11.8,,0.058725131,Health and Hygiene,82.3618,2004,Small,Tier 2,Supermarket Type1,1208.427
+10.195,Low Fat,0.044974051,Fruits and Vegetables,115.5808,2004,Small,Tier 2,Supermarket Type1,1874.8928
+8.51,,0.05190268,Household,142.247,1987,High,Tier 3,Supermarket Type1,2862.94
+13.35,Low Fat,0.149598628,Snack Foods,179.466,1999,Medium,Tier 1,Supermarket Type1,3775.086
+7.285,Low Fat,0.049954435,Dairy,156.5288,2004,Small,Tier 2,Supermarket Type1,2356.932
+11.6,Low Fat,0.037574137,Health and Hygiene,100.0042,2004,Small,Tier 2,Supermarket Type1,2976.126
+8.63,Regular,0.031095246,Snack Foods,185.7582,1997,Small,Tier 1,Supermarket Type1,3529.4058
+11.3,,0.007279889,Meat,199.3426,1997,Small,Tier 1,Supermarket Type1,2372.9112
+17.6,Low Fat,0.076431919,Meat,113.2202,2009,Medium,Tier 3,Supermarket Type2,2025.3636
+19.25,,0.027058066,Meat,194.811,1987,High,Tier 3,Supermarket Type1,2749.754
+5.985,Low Fat,0.0,Frozen Foods,125.2678,2004,Small,Tier 2,Supermarket Type1,1017.3424
+11.35,Regular,0.023322478,Dairy,182.5608,1997,Small,Tier 1,Supermarket Type1,3307.6944
+10.0,,0.021512619,Household,247.775,2009,Medium,Tier 3,Supermarket Type2,3745.125
+15.7,,0.03722507,Soft Drinks,182.4634,2004,Small,Tier 2,Supermarket Type1,1999.3974
+17.1,Low Fat,0.128937661,Fruits and Vegetables,112.3886,2009,Medium,Tier 3,Supermarket Type2,1779.0176
+16.75,,0.12888573,Breads,87.6856,1997,Small,Tier 1,Supermarket Type1,1494.0552
+11.65,Regular,0.019372253,Hard Drinks,40.6164,1997,Small,Tier 1,Supermarket Type1,308.9312
+16.2,,0.0,Canned,100.57,1987,High,Tier 3,Supermarket Type1,1398.18
+12.3,Regular,0.111274591,Baking Goods,35.0874,1997,Small,Tier 1,Supermarket Type1,458.7362
+8.935,Low Fat,0.040346436,Frozen Foods,53.7298,2009,Medium,Tier 3,Supermarket Type2,593.2278
+7.285,Regular,0.031145743,Household,173.6054,2004,Small,Tier 2,Supermarket Type1,2626.581
+12.6,Low Fat,0.096132367,Snack Foods,208.9612,1987,High,Tier 3,Supermarket Type1,4181.224
+7.895,Low Fat,0.061424738,Breakfast,57.7588,2009,Medium,Tier 3,Supermarket Type2,1145.176
+11.8,,0.058827557,Health and Hygiene,80.8618,1999,Medium,Tier 1,Supermarket Type1,1288.9888
+5.94,,0.034880143,Canned,177.9344,2004,Small,Tier 2,Supermarket Type1,4460.86
+7.035,Low Fat,0.021938404,Frozen Foods,264.691,2009,Medium,Tier 3,Supermarket Type2,5785.802
+8.185,,0.046673494,Fruits and Vegetables,48.4692,2009,Medium,Tier 3,Supermarket Type2,591.2304
+10.895,Low Fat,0.020934413,Health and Hygiene,256.5672,1987,High,Tier 3,Supermarket Type1,4090.6752
+11.8,,0.170141787,Canned,116.7834,1987,High,Tier 3,Supermarket Type1,2303.668
+19.2,,0.041291929,Household,130.131,1999,Medium,Tier 1,Supermarket Type1,1038.648
+8.26,,0.034457776,Hard Drinks,113.3834,1999,Medium,Tier 1,Supermarket Type1,2073.3012
+7.76,Regular,0.059352241,Snack Foods,101.87,1997,Small,Tier 1,Supermarket Type1,1697.79
+5.765,Regular,0.072284689,Frozen Foods,119.9098,2004,Small,Tier 2,Supermarket Type1,2048.6666
+13.3,,0.021306635,Baking Goods,119.8124,1999,Medium,Tier 1,Supermarket Type1,1896.1984
+13.15,,0.043831721,Snack Foods,184.195,1999,Medium,Tier 1,Supermarket Type1,2746.425
+10.0,,0.03773288,Snack Foods,128.2994,1987,High,Tier 3,Supermarket Type1,1413.4934
+6.85,,0.022864238,Frozen Foods,260.0594,1987,High,Tier 3,Supermarket Type1,6018.1662
+10.195,,0.012447775,Meat,197.611,1987,High,Tier 3,Supermarket Type1,2553.343
+15.0,Low Fat,0.162093059,Canned,182.5266,2009,Medium,Tier 3,Supermarket Type2,1290.9862
+12.1,Low Fat,0.030250132,Canned,75.267,2009,Medium,Tier 3,Supermarket Type2,612.536
+8.96,,0.068925304,Fruits and Vegetables,196.9768,2004,Small,Tier 2,Supermarket Type1,2759.0752
+6.15,Low Fat,0.046232445,Baking Goods,99.4384,1987,High,Tier 3,Supermarket Type1,1379.5376
+16.85,,0.036390174,Snack Foods,91.4488,1997,Small,Tier 1,Supermarket Type1,2082.6224
+9.695,Regular,0.12848269,Baking Goods,223.9404,1999,Medium,Tier 1,Supermarket Type1,4950.8888
+5.095,Low Fat,0.130031207,Snack Foods,142.4838,2009,Medium,Tier 3,Supermarket Type2,561.9352
+18.25,,0.088750333,Frozen Foods,196.5452,1987,High,Tier 3,Supermarket Type1,2348.9424
+13.65,,0.072851756,Frozen Foods,197.1426,1987,High,Tier 3,Supermarket Type1,3954.852
+15.7,,0.037201127,Soft Drinks,181.7634,1987,High,Tier 3,Supermarket Type1,2544.6876
+12.6,,0.074035365,Dairy,256.1356,1999,Medium,Tier 1,Supermarket Type1,4578.0408
+16.25,,0.057385239,Fruits and Vegetables,126.2046,2004,Small,Tier 2,Supermarket Type1,1369.5506
+10.8,Low Fat,0.098566832,Meat,98.3042,1999,Medium,Tier 1,Supermarket Type1,1488.063
+18.6,,0.17174348,Meat,48.8376,1999,Medium,Tier 1,Supermarket Type1,1294.3152
+16.0,Low Fat,0.041009558,Snack Foods,141.2496,1999,Medium,Tier 1,Supermarket Type1,2681.8424
+9.5,Regular,0.031410378,Fruits and Vegetables,110.3228,2009,Medium,Tier 3,Supermarket Type2,2763.07
+20.35,,0.039329257,Household,127.6678,1999,Medium,Tier 1,Supermarket Type1,2924.8594
+13.65,,0.031439206,Canned,100.07,2004,Small,Tier 2,Supermarket Type1,2596.62
+7.905,Low Fat,0.064325351,Hard Drinks,230.2694,2009,Medium,Tier 3,Supermarket Type2,3197.1716
+10.1,Regular,0.027064381,Meat,76.367,1997,Small,Tier 1,Supermarket Type1,765.67
+15.6,Regular,0.105276162,Snack Foods,173.2764,2004,Small,Tier 2,Supermarket Type1,3779.0808
+16.75,,0.024848788,Soft Drinks,39.9822,2004,Small,Tier 2,Supermarket Type1,746.3618
+17.35,,0.167383061,Household,175.6712,1997,Small,Tier 1,Supermarket Type1,2812.3392
+20.75,Low Fat,0.12953868,Seafood,240.288,1999,Medium,Tier 1,Supermarket Type1,2396.88
+19.85,,0.044460448,Dairy,88.7856,1987,High,Tier 3,Supermarket Type1,1142.5128
+5.26,,0.02454694,Breads,95.7068,1999,Medium,Tier 1,Supermarket Type1,1166.4816
+20.35,,0.039235527,Household,127.2678,1987,High,Tier 3,Supermarket Type1,1017.3424
+12.35,Regular,0.093278912,Snack Foods,118.7124,2004,Small,Tier 2,Supermarket Type1,2607.2728
+10.0,,0.063162608,Frozen Foods,228.6668,2004,Small,Tier 2,Supermarket Type1,3455.502
+18.2,,0.012627478,Snack Foods,140.818,1999,Medium,Tier 1,Supermarket Type1,3495.45
+20.1,Low Fat,0.022406575,Fruits and Vegetables,225.9036,1987,High,Tier 3,Supermarket Type1,3643.2576
+18.85,,0.016107549,Health and Hygiene,129.7626,1997,Small,Tier 1,Supermarket Type1,3016.7398
+8.21,,0.010755465,Hard Drinks,150.8392,1987,High,Tier 3,Supermarket Type1,2982.784
+20.7,,0.04280113,Dairy,178.3028,1987,High,Tier 3,Supermarket Type1,2479.4392
+19.6,,0.094308058,Household,251.8698,1999,Medium,Tier 1,Supermarket Type1,3551.3772
+8.3,Regular,0.038204311,Dairy,87.7198,2004,Small,Tier 2,Supermarket Type1,1831.6158
+5.11,,0.034868095,Household,163.821,2004,Small,Tier 2,Supermarket Type1,2120.573
+19.85,,0.005235143,Dairy,265.8884,1997,Small,Tier 1,Supermarket Type1,2649.884
+16.85,,0.159722816,Frozen Foods,194.1478,1987,High,Tier 3,Supermarket Type1,5812.434
+19.7,Regular,0.024635077,Soft Drinks,84.1592,1987,High,Tier 3,Supermarket Type1,1073.2696
+7.72,Low Fat,0.12152072,Fruits and Vegetables,118.244,1997,Small,Tier 1,Supermarket Type1,958.752
+13.6,,0.043655155,Fruits and Vegetables,156.7946,1997,Small,Tier 1,Supermarket Type1,3629.2758
+6.675,,0.041921462,Snack Foods,92.3462,1997,Small,Tier 1,Supermarket Type1,2406.2012
+16.6,,0.016276741,Health and Hygiene,109.8596,2009,Medium,Tier 3,Supermarket Type2,1617.894
+15.7,,0.122684413,Canned,132.2942,1999,Medium,Tier 1,Supermarket Type1,2252.4014
+15.85,Low Fat,0.121632721,Baking Goods,60.622,1997,Small,Tier 1,Supermarket Type1,2576.646
+12.15,Low Fat,0.037889224,Meat,64.7826,2004,Small,Tier 2,Supermarket Type1,904.1564
+7.75,,0.043414959,Baking Goods,93.1436,2009,Medium,Tier 3,Supermarket Type2,1418.154
+8.43,,0.017311312,Soft Drinks,197.8768,1987,High,Tier 3,Supermarket Type1,3744.4592
+16.35,Regular,0.0,Fruits and Vegetables,198.5426,1997,Small,Tier 1,Supermarket Type1,1384.1982
+20.85,,0.062172698,Baking Goods,90.2514,1987,High,Tier 3,Supermarket Type1,619.8598
+10.695,,0.064022881,Household,36.0848,2009,Medium,Tier 3,Supermarket Type2,372.848
+19.35,,0.062516602,Baking Goods,163.9184,2004,Small,Tier 2,Supermarket Type1,3137.2496
+20.35,Regular,0.021322439,Household,79.1328,2004,Small,Tier 2,Supermarket Type1,1235.7248
+17.6,,0.0160526,Breads,43.9402,1999,Medium,Tier 1,Supermarket Type1,1286.3256
+14.15,Low Fat,0.037901581,Starchy Foods,126.3046,2004,Small,Tier 2,Supermarket Type1,2614.5966
+14.65,Regular,0.17138805,Fruits and Vegetables,50.7692,1997,Small,Tier 1,Supermarket Type1,1034.6532
+8.945,Low Fat,0.087629354,Dairy,263.491,2004,Small,Tier 2,Supermarket Type1,1840.937
+10.1,Low Fat,0.0,Fruits and Vegetables,225.1088,1987,High,Tier 3,Supermarket Type1,3579.3408
+8.27,Regular,0.018813601,Health and Hygiene,237.988,1997,Small,Tier 1,Supermarket Type1,7190.64
+18.0,,0.073306615,Canned,155.0972,1999,Medium,Tier 1,Supermarket Type1,3894.93
+15.7,,0.055943697,Health and Hygiene,150.6024,1987,High,Tier 3,Supermarket Type1,2428.8384
+10.695,Regular,0.05337973,Frozen Foods,56.7904,1999,Medium,Tier 1,Supermarket Type1,1113.2176
+18.7,,0.0576269,Dairy,83.3566,1999,Medium,Tier 1,Supermarket Type1,1860.2452
+11.15,,0.07366703,Others,66.2142,2009,Medium,Tier 3,Supermarket Type2,131.8284
+16.1,Regular,0.025050746,Fruits and Vegetables,97.141,2009,Medium,Tier 3,Supermarket Type2,1448.115
+17.0,Low Fat,0.016030344,Snack Foods,228.0352,2009,Medium,Tier 3,Supermarket Type2,2748.4224
+14.15,Low Fat,0.095378221,Soft Drinks,170.5106,1997,Small,Tier 1,Supermarket Type1,2395.5484
+16.1,,0.063278652,Dairy,182.1318,1987,High,Tier 3,Supermarket Type1,2345.6134
+5.82,Low Fat,0.08062523,Household,168.379,2004,Small,Tier 2,Supermarket Type1,1188.453
+13.65,,0.015908424,Breads,231.1668,2004,Small,Tier 2,Supermarket Type1,6911.004
+17.5,Low Fat,0.026248606,Snack Foods,255.1356,2009,Medium,Tier 3,Supermarket Type2,3815.034
+15.6,Regular,0.035506142,Snack Foods,112.4518,1997,Small,Tier 1,Supermarket Type1,3301.7022
+11.3,Low Fat,0.066674465,Frozen Foods,259.1962,1987,High,Tier 3,Supermarket Type1,5179.924
+13.1,Low Fat,0.037581243,Fruits and Vegetables,175.5054,1997,Small,Tier 1,Supermarket Type1,2451.4756
+7.905,,0.010010425,Snack Foods,249.0408,2004,Small,Tier 2,Supermarket Type1,3755.112
+14.5,,0.089917769,Health and Hygiene,160.3604,1999,Medium,Tier 1,Supermarket Type1,2852.2872
+15.85,,0.007145063,Snack Foods,41.048,2004,Small,Tier 2,Supermarket Type1,479.376
+7.3,Low Fat,0.086060695,Frozen Foods,149.8076,1987,High,Tier 3,Supermarket Type1,2808.3444
+12.5,,0.110163385,Fruits and Vegetables,83.6592,1999,Medium,Tier 1,Supermarket Type1,1320.9472
+10.1,Regular,0.053667516,Fruits and Vegetables,223.0088,1999,Medium,Tier 1,Supermarket Type1,671.1264
+18.85,,0.06823032,Dairy,121.044,2009,Medium,Tier 3,Supermarket Type2,1557.972
+15.35,Regular,0.113195815,Fruits and Vegetables,190.8504,2004,Small,Tier 2,Supermarket Type1,3643.2576
+17.7,Regular,0.042649476,Frozen Foods,162.721,2009,Medium,Tier 3,Supermarket Type2,978.726
+13.15,Regular,0.036641589,Frozen Foods,180.7976,1987,High,Tier 3,Supermarket Type1,6157.3184
+16.6,Regular,0.026537206,Frozen Foods,57.2614,1997,Small,Tier 1,Supermarket Type1,1049.9666
+20.1,Low Fat,0.074565098,Dairy,111.3228,1987,High,Tier 3,Supermarket Type1,663.1368
+17.7,,0.011603492,Frozen Foods,97.741,1987,High,Tier 3,Supermarket Type1,1158.492
+12.6,Low Fat,0.007450258,Household,186.7556,1987,High,Tier 3,Supermarket Type1,2816.334
+7.47,Low Fat,0.0,Frozen Foods,214.3218,2004,Small,Tier 2,Supermarket Type1,4274.436
+14.1,,0.0,Dairy,231.9668,1999,Medium,Tier 1,Supermarket Type1,1842.9344
+17.1,,0.038705317,Household,165.0842,1987,High,Tier 3,Supermarket Type1,2320.9788
+8.77,,0.046771477,Fruits and Vegetables,173.9422,1997,Small,Tier 1,Supermarket Type1,3103.9596
+7.39,,0.067779712,Health and Hygiene,143.8812,1997,Small,Tier 1,Supermarket Type1,3134.5864
+15.7,Low Fat,0.115031783,Canned,114.1202,2009,Medium,Tier 3,Supermarket Type2,787.6414
+8.71,Low Fat,0.0,Canned,46.5376,1987,High,Tier 3,Supermarket Type1,575.2512
+11.65,,0.058719726,Baking Goods,171.1422,2004,Small,Tier 2,Supermarket Type1,2931.5174
+18.25,Low Fat,0.015278899,Snack Foods,199.0084,1997,Small,Tier 1,Supermarket Type1,3174.5344
+9.395,Low Fat,0.109075742,Soft Drinks,42.9112,2004,Small,Tier 2,Supermarket Type1,426.112
+9.31,Regular,0.038014104,Frozen Foods,62.351,1999,Medium,Tier 1,Supermarket Type1,822.263
+17.0,Low Fat,0.055433377,Dairy,221.1114,1997,Small,Tier 1,Supermarket Type1,4434.228
+15.85,,0.057302606,Snack Foods,53.3956,2004,Small,Tier 2,Supermarket Type1,600.5516
+7.235,Low Fat,0.076841095,Household,117.5492,2004,Small,Tier 2,Supermarket Type1,1969.4364
+10.3,Low Fat,0.027310252,Fruits and Vegetables,101.0042,2004,Small,Tier 2,Supermarket Type1,1289.6546
+14.85,Regular,0.03525037,Fruits and Vegetables,160.9578,2004,Small,Tier 2,Supermarket Type1,2246.4092
+12.6,Regular,0.0489808,Breads,61.9194,2009,Medium,Tier 3,Supermarket Type2,619.194
+17.7,Regular,0.0,Starchy Foods,184.3924,1997,Small,Tier 1,Supermarket Type1,4257.1252
+13.0,,0.083643716,Canned,196.0426,1999,Medium,Tier 1,Supermarket Type1,2570.6538
+11.6,Low Fat,0.037549969,Health and Hygiene,101.2042,1987,High,Tier 3,Supermarket Type1,2281.6966
+13.15,,0.020711996,Breads,82.7566,2004,Small,Tier 2,Supermarket Type1,1691.132
+14.3,,0.123070513,Dairy,121.173,2009,Medium,Tier 3,Supermarket Type2,2093.941
+18.7,,0.0,Frozen Foods,229.201,2004,Small,Tier 2,Supermarket Type1,3215.814
+13.15,,0.024630755,Household,178.2686,1987,High,Tier 3,Supermarket Type1,2666.529
+13.8,Low Fat,0.056872392,Snack Foods,231.1984,1997,Small,Tier 1,Supermarket Type1,5097.3648
+8.6,Low Fat,0.040268044,Canned,191.453,1999,Medium,Tier 1,Supermarket Type1,1707.777
+7.21,Low Fat,0.145220646,Snack Foods,103.1332,2009,Medium,Tier 3,Supermarket Type2,1845.5976
+5.175,Low Fat,0.030330202,Health and Hygiene,35.4874,1987,High,Tier 3,Supermarket Type1,388.1614
+18.2,,0.012223687,Fruits and Vegetables,57.1904,1999,Medium,Tier 1,Supermarket Type1,1640.5312
+15.3,,0.023071504,Household,101.8332,2009,Medium,Tier 3,Supermarket Type2,1025.332
+10.5,Regular,0.024991056,Fruits and Vegetables,217.9508,1997,Small,Tier 1,Supermarket Type1,2821.6604
+5.925,Regular,0.096387053,Dairy,45.6086,1987,High,Tier 3,Supermarket Type1,356.8688
+19.7,,0.053305463,Fruits and Vegetables,58.193,1999,Medium,Tier 1,Supermarket Type1,848.895
+7.05,Low Fat,0.055548003,Breads,225.3088,2004,Small,Tier 2,Supermarket Type1,5816.4288
+18.85,Regular,0.040338009,Household,246.7144,1987,High,Tier 3,Supermarket Type1,6615.3888
+13.85,,0.085274988,Meat,119.6124,1997,Small,Tier 1,Supermarket Type1,2014.7108
+12.1,Regular,0.011539622,Dairy,163.5526,1997,Small,Tier 1,Supermarket Type1,2302.3364
+18.2,,0.012659235,Snack Foods,140.718,2009,Medium,Tier 3,Supermarket Type2,2656.542
+15.6,,0.172453254,Fruits and Vegetables,115.1518,1987,High,Tier 3,Supermarket Type1,683.1108
+14.35,,0.090913642,Frozen Foods,231.2984,1997,Small,Tier 1,Supermarket Type1,3243.7776
+5.945,Regular,0.093170838,Household,127.3652,1999,Medium,Tier 1,Supermarket Type1,1549.9824
+10.895,,0.032454046,Frozen Foods,144.8102,1997,Small,Tier 1,Supermarket Type1,3062.0142
+17.5,Regular,0.026848529,Frozen Foods,264.891,1987,High,Tier 3,Supermarket Type1,4996.829
+5.655,,0.174934513,Soft Drinks,145.0102,1987,High,Tier 3,Supermarket Type1,1895.5326
+13.0,Regular,0.030211742,Canned,59.322,2009,Medium,Tier 3,Supermarket Type2,539.298
+10.5,,0.048092816,Hard Drinks,159.2946,1999,Medium,Tier 1,Supermarket Type1,1893.5352
+14.8,,0.044869794,Soft Drinks,76.467,2004,Small,Tier 2,Supermarket Type1,1531.34
+10.85,,0.162211939,Snack Foods,107.0622,2004,Small,Tier 2,Supermarket Type1,741.0354
+14.15,,0.034845668,Snack Foods,242.7828,1987,High,Tier 3,Supermarket Type1,3167.8764
+9.8,Low Fat,0.02681843,Meat,126.002,1987,High,Tier 3,Supermarket Type1,2150.534
+6.445,,0.029667053,Baking Goods,94.4436,1987,High,Tier 3,Supermarket Type1,1134.5232
+7.075,Regular,0.022602061,Frozen Foods,98.1068,1999,Medium,Tier 1,Supermarket Type1,1458.102
+20.85,Regular,0.032442388,Baking Goods,178.366,2004,Small,Tier 2,Supermarket Type1,4673.916
+6.865,Regular,0.0,Soft Drinks,129.9652,1987,High,Tier 3,Supermarket Type1,2324.9736
+12.6,Regular,0.024190156,Dairy,34.4874,2004,Small,Tier 2,Supermarket Type1,494.0236
+17.2,Low Fat,0.156935553,Meat,160.6578,2009,Medium,Tier 3,Supermarket Type2,1925.4936
+14.35,,0.091054989,Frozen Foods,231.8984,1999,Medium,Tier 1,Supermarket Type1,4633.968
+18.0,,0.008575615,Baking Goods,80.2618,2009,Medium,Tier 3,Supermarket Type2,644.4944
+8.6,Low Fat,0.040172077,Canned,188.553,1987,High,Tier 3,Supermarket Type1,3795.06
+7.72,Regular,0.074731477,Breads,77.5986,1997,Small,Tier 1,Supermarket Type1,1947.465
+11.65,,0.019402371,Hard Drinks,38.7164,1999,Medium,Tier 1,Supermarket Type1,579.246
+17.5,Low Fat,0.026182758,Snack Foods,253.6356,1999,Medium,Tier 1,Supermarket Type1,5086.712
+17.6,,0.074345142,Household,230.901,1987,High,Tier 3,Supermarket Type1,4364.319
+20.25,,0.025953257,Household,179.5976,1997,Small,Tier 1,Supermarket Type1,2535.3664
+15.5,Low Fat,0.085763562,Frozen Foods,49.0692,1987,High,Tier 3,Supermarket Type1,295.6152
+8.42,,0.070555571,Household,216.0192,2004,Small,Tier 2,Supermarket Type1,2372.9112
+17.0,,0.015965308,Snack Foods,229.4352,1997,Small,Tier 1,Supermarket Type1,4809.7392
+18.35,Low Fat,0.089345074,Household,191.9504,2009,Medium,Tier 3,Supermarket Type2,5369.0112
+16.75,,0.024892129,Soft Drinks,37.8822,1999,Medium,Tier 1,Supermarket Type1,589.233
+10.1,Regular,0.032152004,Canned,50.6008,1999,Medium,Tier 1,Supermarket Type1,404.8064
+9.8,,0.026882496,Meat,126.302,1999,Medium,Tier 1,Supermarket Type1,3036.048
+18.25,,0.171093639,Dairy,155.663,1999,Medium,Tier 1,Supermarket Type1,2034.019
+17.7,,0.042542484,Frozen Foods,161.921,1999,Medium,Tier 1,Supermarket Type1,2120.573
+13.0,,0.099242622,Household,46.306,1987,High,Tier 3,Supermarket Type1,699.09
+20.5,,0.036140297,Fruits and Vegetables,120.0756,1997,Small,Tier 1,Supermarket Type1,2302.3364
+15.75,,0.166513779,Dairy,38.0506,2009,Medium,Tier 3,Supermarket Type2,265.6542
+16.75,Low Fat,0.0,Soft Drinks,39.3822,1997,Small,Tier 1,Supermarket Type1,353.5398
+15.35,,0.113217223,Fruits and Vegetables,191.1504,1997,Small,Tier 1,Supermarket Type1,1725.7536
+8.76,,0.050011058,Health and Hygiene,126.7336,1987,High,Tier 3,Supermarket Type1,639.168
+5.765,Low Fat,0.072410764,Frozen Foods,122.5098,1999,Medium,Tier 1,Supermarket Type1,1084.5882
+6.52,,0.044607161,Canned,164.2842,1997,Small,Tier 1,Supermarket Type1,2818.3314
+7.785,,0.139552827,Dairy,105.6306,1997,Small,Tier 1,Supermarket Type1,418.1224
+10.65,,0.024069113,Fruits and Vegetables,56.2272,2009,Medium,Tier 3,Supermarket Type2,559.272
+17.25,Low Fat,0.072952298,Canned,76.0986,1999,Medium,Tier 1,Supermarket Type1,623.1888
+11.15,Low Fat,0.105307659,Baking Goods,102.0648,1997,Small,Tier 1,Supermarket Type1,1038.648
+11.65,,0.010963269,Meat,110.9544,2009,Medium,Tier 3,Supermarket Type2,335.5632
+15.35,Low Fat,0.0,Fruits and Vegetables,193.0504,1999,Medium,Tier 1,Supermarket Type1,2492.7552
+6.36,Low Fat,0.005977465,Household,163.3526,2004,Small,Tier 2,Supermarket Type1,2631.2416
+15.6,,0.0,Baking Goods,111.8544,2009,Medium,Tier 3,Supermarket Type2,1454.1072
+7.97,,0.034424278,Soft Drinks,171.8422,1987,High,Tier 3,Supermarket Type1,2069.3064
+20.5,Low Fat,0.020688969,Fruits and Vegetables,88.183,2009,Medium,Tier 3,Supermarket Type2,719.064
+8.645,Regular,0.021619564,Canned,50.6982,1999,Medium,Tier 1,Supermarket Type1,736.3748
+5.15,,0.06117708,Meat,121.8388,1997,Small,Tier 1,Supermarket Type1,3219.8088
+9.3,Low Fat,0.174621343,Snack Foods,104.2964,1999,Medium,Tier 1,Supermarket Type1,1998.7316
+10.395,,0.031199028,Seafood,159.4604,1987,High,Tier 3,Supermarket Type1,316.9208
+16.25,Regular,0.087158654,Dairy,95.141,2004,Small,Tier 2,Supermarket Type1,2220.443
+13.65,,0.012749289,Snack Foods,58.8588,2004,Small,Tier 2,Supermarket Type1,973.3996
+7.235,,0.076791671,Household,116.4492,1987,High,Tier 3,Supermarket Type1,2316.984
+17.75,Low Fat,0.029700018,Fruits and Vegetables,140.3838,1999,Medium,Tier 1,Supermarket Type1,1404.838
+18.0,Low Fat,0.019382568,Health and Hygiene,129.3994,2004,Small,Tier 2,Supermarket Type1,3340.9844
+12.15,Regular,0.131973625,Fruits and Vegetables,187.9872,1987,High,Tier 3,Supermarket Type1,2458.1336
+16.25,Low Fat,0.078103689,Canned,91.1804,1987,High,Tier 3,Supermarket Type1,1929.4884
+17.1,,0.0,Household,114.686,2009,Medium,Tier 3,Supermarket Type2,1358.232
+8.27,Regular,0.128449055,Soft Drinks,186.5924,2009,Medium,Tier 3,Supermarket Type2,4442.2176
+8.645,Regular,0.144006886,Health and Hygiene,94.741,2009,Medium,Tier 3,Supermarket Type2,1061.951
+17.75,,0.030501281,Others,180.566,2004,Small,Tier 2,Supermarket Type1,3415.554
+19.7,,0.064921764,Canned,88.1198,1997,Small,Tier 1,Supermarket Type1,1744.396
+15.35,Low Fat,0.020310046,Soft Drinks,218.0508,1987,High,Tier 3,Supermarket Type1,3038.7112
+14.3,,0.034411238,Baking Goods,98.6726,1997,Small,Tier 1,Supermarket Type1,782.9808
+6.425,Low Fat,0.01043823,Canned,115.8808,1997,Small,Tier 1,Supermarket Type1,1757.712
+6.445,,0.029691762,Baking Goods,92.6436,1997,Small,Tier 1,Supermarket Type1,1039.9796
+18.5,,0.062256921,Frozen Foods,148.0418,1997,Small,Tier 1,Supermarket Type1,2059.9852
+15.25,,0.065841719,Snack Foods,179.866,1987,High,Tier 3,Supermarket Type1,2696.49
+10.1,Low Fat,0.054585372,Health and Hygiene,196.5084,1987,High,Tier 3,Supermarket Type1,595.2252
+17.85,Regular,0.052176861,Snack Foods,122.8072,1997,Small,Tier 1,Supermarket Type1,857.5504
+7.865,,0.061154604,Breakfast,165.3526,1999,Medium,Tier 1,Supermarket Type1,1151.1682
+7.96,,0.028357839,Canned,163.2894,2004,Small,Tier 2,Supermarket Type1,4530.1032
+6.035,,0.14113846,Snack Foods,155.0998,1987,High,Tier 3,Supermarket Type1,3691.1952
+8.645,Low Fat,0.143303291,Health and Hygiene,96.341,1987,High,Tier 3,Supermarket Type1,193.082
+12.0,,0.020442889,Meat,98.0042,1999,Medium,Tier 1,Supermarket Type1,1587.2672
+15.2,Low Fat,0.113072194,Soft Drinks,35.8848,1999,Medium,Tier 1,Supermarket Type1,596.5568
+20.1,Low Fat,0.077454252,Health and Hygiene,59.2536,1997,Small,Tier 1,Supermarket Type1,735.0432
+13.65,Low Fat,0.077219509,Health and Hygiene,56.493,2004,Small,Tier 2,Supermarket Type1,509.337
+20.35,,0.0,Snack Foods,120.9072,1999,Medium,Tier 1,Supermarket Type1,1470.0864
+19.75,,0.014359584,Household,100.8332,2009,Medium,Tier 3,Supermarket Type2,1537.998
+17.0,Low Fat,0.140090284,Canned,265.1884,2009,Medium,Tier 3,Supermarket Type2,6359.7216
+5.365,Regular,0.140458316,Seafood,169.7764,1999,Medium,Tier 1,Supermarket Type1,3263.7516
+10.0,Low Fat,0.045818773,Frozen Foods,138.718,1987,High,Tier 3,Supermarket Type1,1398.18
+13.3,,0.06355415,Frozen Foods,149.4708,2004,Small,Tier 2,Supermarket Type1,1354.2372
+8.6,,0.054484461,Breads,130.131,1997,Small,Tier 1,Supermarket Type1,1557.972
+13.35,Low Fat,0.0,Dairy,77.6012,1997,Small,Tier 1,Supermarket Type1,986.7156
+20.7,Low Fat,0.021431134,Baking Goods,157.0288,1997,Small,Tier 1,Supermarket Type1,2199.8032
+18.1,,0.022395357,Fruits and Vegetables,96.5094,2004,Small,Tier 2,Supermarket Type1,1332.9316
+17.0,Regular,0.052165855,Health and Hygiene,125.073,1987,High,Tier 3,Supermarket Type1,1108.557
+11.85,,0.050085152,Fruits and Vegetables,164.7526,1997,Small,Tier 1,Supermarket Type1,1315.6208
+8.645,Low Fat,0.143422643,Health and Hygiene,95.841,1997,Small,Tier 1,Supermarket Type1,2027.361
+16.35,Low Fat,0.090486828,Household,195.211,1987,High,Tier 3,Supermarket Type1,2553.343
+8.3,Low Fat,0.030151351,Baking Goods,98.7384,1997,Small,Tier 1,Supermarket Type1,492.692
+7.285,,0.031200065,Household,174.7054,1999,Medium,Tier 1,Supermarket Type1,6303.7944
+6.195,Low Fat,0.072278769,Snack Foods,120.6098,2009,Medium,Tier 3,Supermarket Type2,1807.647
+6.405,Regular,0.136512858,Snack Foods,128.7678,1999,Medium,Tier 1,Supermarket Type1,3052.0272
+12.5,,0.031023835,Fruits and Vegetables,104.099,1987,High,Tier 3,Supermarket Type1,309.597
+5.695,Low Fat,0.067688124,Breads,258.8988,2004,Small,Tier 2,Supermarket Type1,5396.9748
+13.1,Regular,0.0,Dairy,117.8782,2004,Small,Tier 2,Supermarket Type1,2741.0986
+9.6,,0.029638267,Household,42.6086,2004,Small,Tier 2,Supermarket Type1,133.8258
+13.15,,0.165328057,Fruits and Vegetables,170.6764,2004,Small,Tier 2,Supermarket Type1,3435.528
+12.1,,0.016812745,Hard Drinks,180.666,1987,High,Tier 3,Supermarket Type1,4134.618
+17.25,,0.03717912,Soft Drinks,162.5526,2004,Small,Tier 2,Supermarket Type1,5920.2936
+8.695,,0.119513002,Household,93.4094,2004,Small,Tier 2,Supermarket Type1,856.8846
+8.6,,0.069524391,Household,91.8146,1999,Medium,Tier 1,Supermarket Type1,2371.5796
+13.8,Regular,0.058091482,Dairy,245.1802,2004,Small,Tier 2,Supermarket Type1,5650.6446
+8.93,Low Fat,0.028533032,Dairy,151.434,2009,Medium,Tier 3,Supermarket Type2,1225.072
+11.35,,0.005525913,Fruits and Vegetables,168.279,1987,High,Tier 3,Supermarket Type1,2376.906
+5.635,,0.0,Baking Goods,148.705,1999,Medium,Tier 1,Supermarket Type1,1198.44
+11.8,,0.057655493,Meat,152.6366,2009,Medium,Tier 3,Supermarket Type2,1662.5026
+6.61,Regular,0.029129907,Snack Foods,188.4898,2009,Medium,Tier 3,Supermarket Type2,4677.245
+7.02,,0.049823902,Dairy,82.225,1987,High,Tier 3,Supermarket Type1,2746.425
+17.75,,0.038042233,Baking Goods,154.2656,2009,Medium,Tier 3,Supermarket Type2,3398.2432
+9.3,Low Fat,0.044624064,Household,245.4802,1987,High,Tier 3,Supermarket Type1,3193.8426
+12.5,Low Fat,0.081465335,Meat,220.7798,2009,Medium,Tier 3,Supermarket Type2,6611.394
+6.195,Low Fat,0.072097449,Snack Foods,119.3098,1999,Medium,Tier 1,Supermarket Type1,1205.098
+15.75,Low Fat,0.140603316,Hard Drinks,252.8382,1997,Small,Tier 1,Supermarket Type1,6308.455
+20.7,,0.021427082,Baking Goods,156.5288,2004,Small,Tier 2,Supermarket Type1,1571.288
+20.5,Low Fat,0.036110222,Fruits and Vegetables,120.1756,1987,High,Tier 3,Supermarket Type1,2059.9852
+7.22,Regular,0.03828933,Baking Goods,64.751,1987,High,Tier 3,Supermarket Type1,126.502
+15.1,Low Fat,0.076193763,Baking Goods,89.783,1999,Medium,Tier 1,Supermarket Type1,2247.075
+17.85,,0.044463491,Snack Foods,127.102,1997,Small,Tier 1,Supermarket Type1,2024.032
+19.85,,0.026074491,Household,48.6376,2009,Medium,Tier 3,Supermarket Type2,575.2512
+20.0,Low Fat,0.0,Health and Hygiene,110.2544,1987,High,Tier 3,Supermarket Type1,1454.1072
+14.35,,0.091283986,Frozen Foods,232.6984,2009,Medium,Tier 3,Supermarket Type2,2316.984
+19.6,,0.033901442,Soft Drinks,56.2614,1997,Small,Tier 1,Supermarket Type1,773.6596
+12.85,Low Fat,0.030591255,Starchy Foods,251.404,1987,High,Tier 3,Supermarket Type1,2277.036
+8.18,,0.013183517,Household,143.1154,2009,Medium,Tier 3,Supermarket Type2,1843.6002
+16.0,,0.017547958,Meat,48.3718,2004,Small,Tier 2,Supermarket Type1,614.5334
+20.7,,0.092834313,Dairy,77.667,1999,Medium,Tier 1,Supermarket Type1,2220.443
+12.5,Low Fat,0.081260969,Meat,221.7798,1999,Medium,Tier 1,Supermarket Type1,3085.3172
+17.35,Regular,0.167243769,Household,176.2712,1987,High,Tier 3,Supermarket Type1,2988.1104
+11.1,,0.033160417,Household,119.6124,1999,Medium,Tier 1,Supermarket Type1,2251.7356
+5.19,,0.042687151,Frozen Foods,195.911,1999,Medium,Tier 1,Supermarket Type1,2946.165
+18.25,Low Fat,0.089186083,Frozen Foods,194.3452,2009,Medium,Tier 3,Supermarket Type2,4502.1396
+6.425,Regular,0.06316338,Breakfast,132.2626,2004,Small,Tier 2,Supermarket Type1,2098.6016
+14.5,Regular,0.058918844,Fruits and Vegetables,169.7448,1999,Medium,Tier 1,Supermarket Type1,3238.4512
+10.3,,0.050070476,Canned,77.896,1997,Small,Tier 1,Supermarket Type1,1278.336
+9.3,,0.028516696,Baking Goods,194.6136,2004,Small,Tier 2,Supermarket Type1,3110.6176
+8.365,Low Fat,0.071832909,Hard Drinks,36.1506,2004,Small,Tier 2,Supermarket Type1,721.0614
+8.615,,0.116226984,Fruits and Vegetables,95.9436,2004,Small,Tier 2,Supermarket Type1,2741.7644
+16.0,Low Fat,0.065009745,Dairy,79.5986,1987,High,Tier 3,Supermarket Type1,934.7832
+7.42,Regular,0.020423549,Snack Foods,249.0092,1999,Medium,Tier 1,Supermarket Type1,2988.1104
+8.97,Low Fat,0.09301462,Household,52.7956,1997,Small,Tier 1,Supermarket Type1,1037.3164
+12.15,,0.028714747,Household,151.9708,2009,Medium,Tier 3,Supermarket Type2,3611.2992
+19.2,Low Fat,0.041220035,Household,131.231,2004,Small,Tier 2,Supermarket Type1,3635.268
+16.5,Low Fat,0.0,Baking Goods,96.2068,1997,Small,Tier 1,Supermarket Type1,3013.4108
+6.135,,0.079293753,Soft Drinks,111.286,2009,Medium,Tier 3,Supermarket Type2,2263.72
+12.6,Low Fat,0.041726942,Fruits and Vegetables,122.0072,2009,Medium,Tier 3,Supermarket Type2,1470.0864
+15.2,Low Fat,0.019031184,Snack Foods,235.5248,2004,Small,Tier 2,Supermarket Type1,4740.496
+7.67,Low Fat,0.185596553,Household,35.7216,2009,Medium,Tier 3,Supermarket Type2,69.2432
+5.88,Low Fat,0.030371121,Frozen Foods,101.799,2009,Medium,Tier 3,Supermarket Type2,1960.781
+11.6,Regular,0.077284566,Frozen Foods,172.4106,1999,Medium,Tier 1,Supermarket Type1,4277.765
+7.895,Low Fat,0.094567181,Breakfast,104.5332,1997,Small,Tier 1,Supermarket Type1,1845.5976
+18.35,,0.015291576,Hard Drinks,106.1938,1987,High,Tier 3,Supermarket Type1,1607.907
+15.7,,0.122392031,Canned,133.1942,1987,High,Tier 3,Supermarket Type1,2782.3782
+11.65,Low Fat,0.039980644,Snack Foods,227.3694,1999,Medium,Tier 1,Supermarket Type1,4567.388
+16.0,Low Fat,0.173462841,Snack Foods,157.6972,2009,Medium,Tier 3,Supermarket Type2,2960.1468
+7.1,,0.109990885,Fruits and Vegetables,172.908,2004,Small,Tier 2,Supermarket Type1,2769.728
+10.65,,0.085268317,Snack Foods,229.7668,1999,Medium,Tier 1,Supermarket Type1,3916.2356
+9.31,Regular,0.037955094,Frozen Foods,62.151,1997,Small,Tier 1,Supermarket Type1,1201.769
+6.78,,0.0,Fruits and Vegetables,227.5694,1999,Medium,Tier 1,Supermarket Type1,3653.9104
+17.35,Regular,0.168064909,Household,176.2712,2009,Medium,Tier 3,Supermarket Type2,1230.3984
+17.35,Regular,0.055908268,Baking Goods,99.8016,2004,Small,Tier 2,Supermarket Type1,607.2096
+9.6,Regular,0.02236923,Breads,104.799,2009,Medium,Tier 3,Supermarket Type2,1341.587
+9.0,,0.032072321,Household,102.2016,1999,Medium,Tier 1,Supermarket Type1,1416.8224
+6.055,,0.031230059,Fruits and Vegetables,160.3578,2009,Medium,Tier 3,Supermarket Type2,1765.0358
+8.85,Regular,0.112840108,Soft Drinks,122.0388,1999,Medium,Tier 1,Supermarket Type1,1238.388
+17.1,,0.054428368,Breads,84.9566,2009,Medium,Tier 3,Supermarket Type2,1014.6792
+17.85,,0.04442649,Snack Foods,124.902,1987,High,Tier 3,Supermarket Type1,1897.53
+18.6,Regular,0.076975118,Snack Foods,161.8236,1999,Medium,Tier 1,Supermarket Type1,1611.236
+17.2,,0.156269303,Meat,159.6578,2004,Small,Tier 2,Supermarket Type1,3048.6982
+20.5,Low Fat,0.141792841,Starchy Foods,89.7172,1997,Small,Tier 1,Supermarket Type1,1159.8236
+18.25,,0.170795745,Dairy,154.463,2004,Small,Tier 2,Supermarket Type1,2190.482
+14.8,Regular,0.04407225,Breads,109.057,2009,Medium,Tier 3,Supermarket Type2,1428.141
+15.1,,0.025988508,Frozen Foods,146.6076,2004,Small,Tier 2,Supermarket Type1,2364.9216
+11.0,,0.057290978,Fruits and Vegetables,242.7512,2009,Medium,Tier 3,Supermarket Type2,1938.8096
+10.8,Low Fat,0.082534287,Dairy,191.1504,2004,Small,Tier 2,Supermarket Type1,4410.2592
+11.65,Regular,0.173904193,Dairy,52.3298,1987,High,Tier 3,Supermarket Type1,269.649
+16.6,,0.103406065,Fruits and Vegetables,116.4466,2009,Medium,Tier 3,Supermarket Type2,1178.466
+7.67,,0.184689756,Household,35.4216,1987,High,Tier 3,Supermarket Type1,450.0808
+15.5,Low Fat,0.103603094,Snack Foods,143.547,1999,Medium,Tier 1,Supermarket Type1,1431.47
+19.2,,0.09391835,Frozen Foods,189.8214,1997,Small,Tier 1,Supermarket Type1,942.107
+15.6,,0.066829875,Others,185.5924,1999,Medium,Tier 1,Supermarket Type1,3146.5708
+18.7,Low Fat,0.057771828,Dairy,85.3566,2009,Medium,Tier 3,Supermarket Type2,591.8962
+17.6,,0.008001018,Dairy,170.4422,1997,Small,Tier 1,Supermarket Type1,2759.0752
+8.895,,0.105274111,Dairy,39.9138,1999,Medium,Tier 1,Supermarket Type1,690.4346
+19.6,Low Fat,0.025281802,Health and Hygiene,152.0024,2004,Small,Tier 2,Supermarket Type1,2884.2456
+8.3,Regular,0.035409328,Fruits and Vegetables,36.2506,1999,Medium,Tier 1,Supermarket Type1,834.9132
+6.575,Low Fat,0.075625152,Breads,145.7444,1999,Medium,Tier 1,Supermarket Type1,3193.1768
+12.6,Regular,0.062648111,Frozen Foods,104.899,1987,High,Tier 3,Supermarket Type1,1960.781
+19.25,,0.1017546,Dairy,55.1956,2004,Small,Tier 2,Supermarket Type1,491.3604
+18.1,Regular,0.048931174,Household,127.3336,2004,Small,Tier 2,Supermarket Type1,1150.5024
+10.395,Regular,0.091096531,Baking Goods,52.3008,1987,High,Tier 3,Supermarket Type1,2226.4352
+5.175,Low Fat,0.030479118,Health and Hygiene,33.2874,2009,Medium,Tier 3,Supermarket Type2,635.1732
+14.65,Regular,0.170176516,Hard Drinks,55.2614,1987,High,Tier 3,Supermarket Type1,718.3982
+9.1,,0.081794766,Breads,173.6054,1999,Medium,Tier 1,Supermarket Type1,700.4216
+10.5,,0.116576702,Baking Goods,163.121,1987,High,Tier 3,Supermarket Type1,1794.331
+15.35,Low Fat,0.013834247,Frozen Foods,62.7168,1999,Medium,Tier 1,Supermarket Type1,958.752
+17.25,Regular,0.073135768,Canned,77.2986,2009,Medium,Tier 3,Supermarket Type2,1012.6818
+13.5,,0.07266912,Household,160.292,1997,Small,Tier 1,Supermarket Type1,1438.128
+20.75,Low Fat,0.129337594,Seafood,238.188,1997,Small,Tier 1,Supermarket Type1,5033.448
+11.1,,0.059797172,Fruits and Vegetables,151.8366,1987,High,Tier 3,Supermarket Type1,1057.9562
+19.5,,0.077157727,Soft Drinks,232.4958,2004,Small,Tier 2,Supermarket Type1,2804.3496
+20.0,Low Fat,0.034369528,Baking Goods,43.7086,1997,Small,Tier 1,Supermarket Type1,892.172
+8.155,Regular,0.033555399,Frozen Foods,74.7354,1997,Small,Tier 1,Supermarket Type1,1655.1788
+10.895,Low Fat,0.136784873,Dairy,265.2568,2004,Small,Tier 2,Supermarket Type1,4218.5088
+12.15,Low Fat,0.042485444,Canned,125.0046,2009,Medium,Tier 3,Supermarket Type2,1743.0644
+14.1,,0.06682033,Snack Foods,198.9084,1987,High,Tier 3,Supermarket Type1,4761.8016
+10.5,,0.011305479,Household,235.5248,1999,Medium,Tier 1,Supermarket Type1,4740.496
+16.35,,0.016979063,Household,97.441,1987,High,Tier 3,Supermarket Type1,772.328
+9.17,,0.102978817,Baking Goods,144.947,1997,Small,Tier 1,Supermarket Type1,4294.41
+9.5,Low Fat,0.132521929,Frozen Foods,228.6668,2004,Small,Tier 2,Supermarket Type1,4146.6024
+4.635,,0.140889111,Breads,127.0994,1997,Small,Tier 1,Supermarket Type1,1927.491
+9.195,,0.101275792,Baking Goods,46.4744,2004,Small,Tier 2,Supermarket Type1,950.7624
+5.15,Low Fat,0.061272194,Meat,125.6388,1999,Medium,Tier 1,Supermarket Type1,1733.7432
+7.0,,0.15202235,Canned,106.628,2009,Medium,Tier 3,Supermarket Type2,639.168
+17.75,Low Fat,0.030631323,Others,178.566,2009,Medium,Tier 3,Supermarket Type2,2516.724
+8.355,Low Fat,0.187850233,Canned,146.5418,1999,Medium,Tier 1,Supermarket Type1,2501.4106
+8.235,Regular,0.014459672,Health and Hygiene,181.895,1997,Small,Tier 1,Supermarket Type1,732.38
+9.8,,0.026081567,Snack Foods,217.585,2004,Small,Tier 2,Supermarket Type1,4327.7
+12.15,Regular,0.0,Breads,164.7184,1997,Small,Tier 1,Supermarket Type1,3962.8416
+19.0,Low Fat,0.097294728,Frozen Foods,47.7718,2004,Small,Tier 2,Supermarket Type1,1039.9796
+20.6,,0.083004078,Baking Goods,119.4756,1997,Small,Tier 1,Supermarket Type1,1090.5804
+16.35,Low Fat,0.020544065,Fruits and Vegetables,49.9324,2004,Small,Tier 2,Supermarket Type1,259.662
+18.25,Regular,0.012325122,Fruits and Vegetables,162.8894,2009,Medium,Tier 3,Supermarket Type2,647.1576
+9.0,Low Fat,0.065350715,Snack Foods,175.437,1999,Medium,Tier 1,Supermarket Type1,3175.866
+11.1,Regular,0.04500603,Snack Foods,174.0054,2009,Medium,Tier 3,Supermarket Type2,2101.2648
+10.0,,0.037918142,Snack Foods,129.6994,2009,Medium,Tier 3,Supermarket Type2,1413.4934
+7.06,Low Fat,0.043863865,Starchy Foods,59.5904,1987,High,Tier 3,Supermarket Type1,761.6752
+12.5,,0.08175276,Fruits and Vegetables,89.0488,1997,Small,Tier 1,Supermarket Type1,1267.6832
+7.785,,0.140121306,Dairy,102.5306,2009,Medium,Tier 3,Supermarket Type2,1358.8978
+16.5,Low Fat,0.06619442,Breakfast,184.4292,1987,High,Tier 3,Supermarket Type1,3101.2964
+7.63,Low Fat,0.061313057,Soft Drinks,93.3436,2009,Medium,Tier 3,Supermarket Type2,1323.6104
+18.6,Low Fat,0.012643035,Household,119.8414,1987,High,Tier 3,Supermarket Type1,365.5242
+12.6,,0.048857925,Breads,61.0194,1999,Medium,Tier 1,Supermarket Type1,1052.6298
+11.1,,0.05373063,Fruits and Vegetables,165.1526,1987,High,Tier 3,Supermarket Type1,1480.0734
+12.85,,0.0,Frozen Foods,38.3164,2004,Small,Tier 2,Supermarket Type1,502.0132
+6.215,Regular,0.012146608,Fruits and Vegetables,37.9848,2004,Small,Tier 2,Supermarket Type1,782.9808
+6.71,Regular,0.02960641,Baking Goods,65.4142,1999,Medium,Tier 1,Supermarket Type1,1516.0266
+20.85,Regular,0.062321222,Baking Goods,87.2514,1999,Medium,Tier 1,Supermarket Type1,265.6542
+5.44,Low Fat,0.025583714,Dairy,239.1538,2009,Medium,Tier 3,Supermarket Type2,480.7076
+17.6,Low Fat,0.041581725,Soft Drinks,163.3526,1987,High,Tier 3,Supermarket Type1,3453.5046
+12.85,,0.033271818,Fruits and Vegetables,196.5768,1999,Medium,Tier 1,Supermarket Type1,5715.2272
+8.895,Low Fat,0.105110692,Dairy,41.1138,1997,Small,Tier 1,Supermarket Type1,690.4346
+18.6,Low Fat,0.080829372,Health and Hygiene,96.4436,2009,Medium,Tier 3,Supermarket Type2,2741.7644
+6.89,Regular,0.0,Snack Foods,193.482,1999,Medium,Tier 1,Supermarket Type1,2510.066
+11.0,,0.133352623,Canned,219.7798,1999,Medium,Tier 1,Supermarket Type1,2644.5576
+14.65,Low Fat,0.099286298,Snack Foods,49.8666,1999,Medium,Tier 1,Supermarket Type1,563.9326
+11.0,Low Fat,0.03786331,Health and Hygiene,40.948,1987,High,Tier 3,Supermarket Type1,319.584
+11.8,,0.0,Frozen Foods,179.2344,2004,Small,Tier 2,Supermarket Type1,2141.2128
+11.8,Low Fat,0.014144442,Frozen Foods,180.4344,2009,Medium,Tier 3,Supermarket Type2,535.3032
+6.69,,0.037060755,Meat,176.837,2009,Medium,Tier 3,Supermarket Type2,1411.496
+15.5,,0.053455158,Soft Drinks,43.677,1999,Medium,Tier 1,Supermarket Type1,562.601
+10.895,,0.027157955,Others,50.2666,2009,Medium,Tier 3,Supermarket Type2,820.2656
+11.15,Regular,0.032306341,Health and Hygiene,166.3526,1999,Medium,Tier 1,Supermarket Type1,986.7156
+9.06,Low Fat,0.009776268,Others,213.756,1997,Small,Tier 1,Supermarket Type1,1065.28
+4.92,Low Fat,0.046026479,Baking Goods,196.5084,1999,Medium,Tier 1,Supermarket Type1,3769.7596
+4.805,,0.037699423,Dairy,125.5704,1997,Small,Tier 1,Supermarket Type1,3880.2824
+8.5,,0.098036903,Canned,51.5324,1999,Medium,Tier 1,Supermarket Type1,882.8508
+9.395,,0.159304333,Soft Drinks,226.172,2004,Small,Tier 2,Supermarket Type1,3848.324
+5.94,Low Fat,0.034940979,Canned,177.3344,1999,Medium,Tier 1,Supermarket Type1,1605.9096
+20.75,Low Fat,0.109153001,Snack Foods,161.3578,2009,Medium,Tier 3,Supermarket Type2,4492.8184
+7.645,,0.066693437,Snack Foods,42.3112,2004,Small,Tier 2,Supermarket Type1,1065.28
+17.2,,0.012030747,Canned,166.6184,1999,Medium,Tier 1,Supermarket Type1,1155.8288
+5.19,Regular,0.044321422,Meat,103.899,1999,Medium,Tier 1,Supermarket Type1,2889.572
+6.865,,0.03598621,Frozen Foods,244.1486,2009,Medium,Tier 3,Supermarket Type2,2687.8346
+13.1,,0.075515154,Dairy,167.2158,1987,High,Tier 3,Supermarket Type1,3008.0844
+18.25,,0.077659918,Snack Foods,260.2962,1987,High,Tier 3,Supermarket Type1,1035.9848
+13.0,,0.070288365,Snack Foods,64.3484,2004,Small,Tier 2,Supermarket Type1,2218.4456
+19.35,,0.02775746,Health and Hygiene,62.5168,1999,Medium,Tier 1,Supermarket Type1,1534.0032
+14.0,Regular,0.029722659,Dairy,143.4786,1997,Small,Tier 1,Supermarket Type1,1589.2646
+15.85,,0.069100548,Breads,216.6166,1997,Small,Tier 1,Supermarket Type1,4136.6154
+10.5,,0.071244438,Frozen Foods,119.2098,2004,Small,Tier 2,Supermarket Type1,1325.6078
+18.85,Low Fat,0.141615436,Canned,169.0132,2004,Small,Tier 2,Supermarket Type1,1860.2452
+16.7,Low Fat,0.070154899,Dairy,218.185,1997,Small,Tier 1,Supermarket Type1,5193.24
+6.32,,0.012737719,Meat,38.5822,1999,Medium,Tier 1,Supermarket Type1,353.5398
+20.2,Low Fat,0.059751638,Fruits and Vegetables,129.1678,1987,High,Tier 3,Supermarket Type1,1017.3424
+17.5,Low Fat,0.007551607,Dairy,145.8102,1999,Medium,Tier 1,Supermarket Type1,1895.5326
+16.75,,0.021220113,Hard Drinks,55.1298,2004,Small,Tier 2,Supermarket Type1,1240.3854
+19.7,Low Fat,0.08073703,Baking Goods,197.011,1997,Small,Tier 1,Supermarket Type1,3338.987
+15.1,,0.059417055,Household,237.9248,1999,Medium,Tier 1,Supermarket Type1,2133.2232
+5.845,,0.105181277,Frozen Foods,214.4218,1999,Medium,Tier 1,Supermarket Type1,5343.045
+11.35,Low Fat,0.044945123,Snack Foods,101.0016,1987,High,Tier 3,Supermarket Type1,2631.2416
+19.5,Low Fat,0.027458099,Canned,158.792,2009,Medium,Tier 3,Supermarket Type2,2556.672
+13.35,,0.091189915,Snack Foods,149.3708,2004,Small,Tier 2,Supermarket Type1,4514.124
+17.85,,0.052257982,Snack Foods,121.8072,1999,Medium,Tier 1,Supermarket Type1,2450.144
+8.395,Low Fat,0.039492207,Snack Foods,97.3042,1997,Small,Tier 1,Supermarket Type1,1091.2462
+19.0,,0.128065918,Snack Foods,104.3622,2004,Small,Tier 2,Supermarket Type1,1905.5196
+7.905,Regular,0.054986919,Frozen Foods,108.6254,1997,Small,Tier 1,Supermarket Type1,1844.9318
+15.5,,0.075736746,Baking Goods,265.5568,2004,Small,Tier 2,Supermarket Type1,4482.1656
+20.25,Regular,0.036295834,Dairy,217.5482,1987,High,Tier 3,Supermarket Type1,1095.241
+6.635,Regular,0.006335942,Baking Goods,121.8098,1999,Medium,Tier 1,Supermarket Type1,2048.6666
+17.2,,0.15616879,Meat,160.6578,1987,High,Tier 3,Supermarket Type1,3690.5294
+6.8,Regular,0.03748996,Baking Goods,48.6034,2004,Small,Tier 2,Supermarket Type1,291.6204
+19.85,Low Fat,0.175849067,Fruits and Vegetables,222.0772,1987,High,Tier 3,Supermarket Type1,2001.3948
+4.785,Low Fat,0.09297084,Breads,122.0098,2009,Medium,Tier 3,Supermarket Type2,2048.6666
+8.3,Regular,0.030198228,Baking Goods,98.2384,1999,Medium,Tier 1,Supermarket Type1,2167.8448
+16.5,Low Fat,0.07376631,Canned,208.5638,1987,High,Tier 3,Supermarket Type1,2691.8294
+10.85,Low Fat,0.162242617,Snack Foods,107.8622,1997,Small,Tier 1,Supermarket Type1,1058.622
+7.945,,0.015900971,Snack Foods,163.821,1999,Medium,Tier 1,Supermarket Type1,1794.331
+21.1,,0.020718655,Breakfast,130.4994,1997,Small,Tier 1,Supermarket Type1,2184.4898
+8.975,Regular,0.05281112,Canned,86.6224,1999,Medium,Tier 1,Supermarket Type1,1704.448
+18.2,,0.162147349,Fruits and Vegetables,37.719,2009,Medium,Tier 3,Supermarket Type2,549.285
+18.7,Low Fat,0.046088273,Health and Hygiene,153.6682,1997,Small,Tier 1,Supermarket Type1,3506.7686
+10.5,Regular,0.048403392,Dairy,48.2376,2009,Medium,Tier 3,Supermarket Type2,527.3136
+6.055,,0.025512207,Fruits and Vegetables,159.692,2009,Medium,Tier 3,Supermarket Type2,5592.72
+21.2,,0.00704098,Starchy Foods,173.5738,1997,Small,Tier 1,Supermarket Type1,2954.1546
+16.75,,0.105018817,Snack Foods,155.263,1999,Medium,Tier 1,Supermarket Type1,1721.093
+6.17,Regular,0.010674255,Meat,63.4826,2009,Medium,Tier 3,Supermarket Type2,774.9912
+20.6,,0.047936284,Fruits and Vegetables,185.7556,1997,Small,Tier 1,Supermarket Type1,3942.8676
+15.6,Low Fat,0.143688905,Breakfast,128.1994,2009,Medium,Tier 3,Supermarket Type2,2184.4898
+5.765,Regular,0.072238195,Frozen Foods,120.0098,1987,High,Tier 3,Supermarket Type1,1687.1372
+8.68,,0.008871687,Frozen Foods,99.7384,2009,Medium,Tier 3,Supermarket Type2,295.6152
+8.785,Low Fat,0.020573334,Soft Drinks,156.4656,2004,Small,Tier 2,Supermarket Type1,2162.5184
+5.985,,0.096185556,Frozen Foods,127.1678,2009,Medium,Tier 3,Supermarket Type2,3560.6984
+16.6,Regular,0.0,Fruits and Vegetables,173.3738,1997,Small,Tier 1,Supermarket Type1,2085.2856
+6.13,,0.10234983,Fruits and Vegetables,55.0298,1999,Medium,Tier 1,Supermarket Type1,539.298
+13.35,,0.014626901,Canned,207.7638,1997,Small,Tier 1,Supermarket Type1,3520.0846
+13.5,,0.128709014,Starchy Foods,96.1068,1987,High,Tier 3,Supermarket Type1,1846.9292
+14.65,,0.011180713,Others,53.8614,1987,High,Tier 3,Supermarket Type1,221.0456
+12.35,,0.185824165,Baking Goods,78.5328,2004,Small,Tier 2,Supermarket Type1,695.0952
+15.6,Regular,0.105725004,Snack Foods,169.9764,2009,Medium,Tier 3,Supermarket Type2,2748.4224
+15.15,,0.012282366,Snack Foods,132.5284,1999,Medium,Tier 1,Supermarket Type1,1713.7692
+5.86,Low Fat,0.151467821,Meat,154.1314,2009,Medium,Tier 3,Supermarket Type2,3412.8908
+10.195,,0.159803853,Frozen Foods,141.5154,1987,High,Tier 3,Supermarket Type1,850.8924
+12.1,,0.030174246,Canned,76.667,1999,Medium,Tier 1,Supermarket Type1,1531.34
+18.25,,0.075132353,Snack Foods,125.9046,1987,High,Tier 3,Supermarket Type1,2365.5874
+12.65,,0.076354362,Frozen Foods,192.1846,2009,Medium,Tier 3,Supermarket Type2,1146.5076
+16.7,,0.026598474,Household,245.8776,1987,High,Tier 3,Supermarket Type1,4210.5192
+12.15,,0.058414678,Fruits and Vegetables,163.4552,2004,Small,Tier 2,Supermarket Type1,974.7312
+17.0,,0.135707553,Fruits and Vegetables,172.5106,2004,Small,Tier 2,Supermarket Type1,2053.3272
+7.365,Low Fat,0.042524835,Fruits and Vegetables,228.372,1987,High,Tier 3,Supermarket Type1,4527.44
+16.1,Low Fat,0.013584408,Fruits and Vegetables,107.7596,1987,High,Tier 3,Supermarket Type1,323.5788
+16.2,,0.0,Soft Drinks,73.4696,1987,High,Tier 3,Supermarket Type1,2087.9488
+6.055,Low Fat,0.0,Fruits and Vegetables,162.3578,2004,Small,Tier 2,Supermarket Type1,1604.578
+16.7,Low Fat,0.022155562,Dairy,109.5886,2009,Medium,Tier 3,Supermarket Type2,1000.6974
+4.59,,0.070767174,Soft Drinks,111.986,2004,Small,Tier 2,Supermarket Type1,792.302
+16.35,Low Fat,0.062508438,Fruits and Vegetables,227.1062,1999,Medium,Tier 1,Supermarket Type1,5642.655
+19.85,Low Fat,0.0,Health and Hygiene,126.1704,2009,Medium,Tier 3,Supermarket Type2,1877.556
+9.0,,0.0,Canned,79.7644,2004,Small,Tier 2,Supermarket Type1,1649.8524
+10.3,,0.070149088,Dairy,264.5226,1999,Medium,Tier 1,Supermarket Type1,3436.1938
+17.0,,0.119285634,Frozen Foods,247.4434,1987,High,Tier 3,Supermarket Type1,2980.1208
+19.35,,0.027827268,Health and Hygiene,65.6168,2009,Medium,Tier 3,Supermarket Type2,383.5008
+6.57,,0.096799953,Household,192.382,1987,High,Tier 3,Supermarket Type1,4247.804
+15.5,,0.076059648,Baking Goods,265.1568,2009,Medium,Tier 3,Supermarket Type2,2109.2544
+7.42,,0.020391845,Snack Foods,248.9092,1997,Small,Tier 1,Supermarket Type1,2241.0828
+7.365,,0.160216552,Snack Foods,93.512,1999,Medium,Tier 1,Supermarket Type1,1677.816
+6.175,,0.179077475,Meat,94.3752,1997,Small,Tier 1,Supermarket Type1,1342.2528
+6.425,Low Fat,0.010454459,Canned,115.6808,1999,Medium,Tier 1,Supermarket Type1,1406.1696
+20.35,Low Fat,0.014825605,Fruits and Vegetables,233.2958,1997,Small,Tier 1,Supermarket Type1,4206.5244
+9.895,,0.028837829,Canned,117.8492,2009,Medium,Tier 3,Supermarket Type2,1506.0396
+12.3,,0.069742672,Soft Drinks,106.2938,2009,Medium,Tier 3,Supermarket Type2,1715.1008
+13.5,Low Fat,0.094219593,Soft Drinks,189.9872,1997,Small,Tier 1,Supermarket Type1,1323.6104
+6.98,,0.041273236,Canned,82.4934,2009,Medium,Tier 3,Supermarket Type2,982.7208
+15.1,Regular,0.173481304,Snack Foods,194.511,1997,Small,Tier 1,Supermarket Type1,4910.275
+10.3,Regular,0.146767897,Meat,102.3648,2009,Medium,Tier 3,Supermarket Type2,1557.972
+18.25,,0.054318517,Snack Foods,140.9154,1999,Medium,Tier 1,Supermarket Type1,6381.693
+13.35,,0.048027043,Breads,218.9166,1997,Small,Tier 1,Supermarket Type1,5660.6316
+20.7,Regular,0.048957533,Fruits and Vegetables,37.8506,2009,Medium,Tier 3,Supermarket Type2,265.6542
+8.52,,0.02705936,Soft Drinks,153.3682,1997,Small,Tier 1,Supermarket Type1,914.8092
+12.15,Low Fat,0.131383762,Frozen Foods,246.046,1999,Medium,Tier 1,Supermarket Type1,1231.73
+14.5,,0.09735225,Snack Foods,160.7262,1999,Medium,Tier 1,Supermarket Type1,1750.3882
+16.35,Regular,0.032511818,Meat,165.0842,1987,High,Tier 3,Supermarket Type1,994.7052
+11.65,,0.058730831,Baking Goods,171.9422,1997,Small,Tier 1,Supermarket Type1,3448.844
+6.525,,0.090278634,Household,86.7882,2004,Small,Tier 2,Supermarket Type1,1975.4286
+6.59,,0.105577348,Fruits and Vegetables,85.6908,2004,Small,Tier 2,Supermarket Type1,1929.4884
+16.35,Low Fat,0.034726222,Household,125.602,1999,Medium,Tier 1,Supermarket Type1,3036.048
+5.94,,0.029372367,Breads,186.7556,1997,Small,Tier 1,Supermarket Type1,3942.8676
+5.465,Low Fat,0.0,Baking Goods,132.5626,2009,Medium,Tier 3,Supermarket Type2,262.3252
+12.85,,0.098910759,Frozen Foods,37.6164,1987,High,Tier 3,Supermarket Type1,308.9312
+6.86,Regular,0.036530411,Household,227.801,2004,Small,Tier 2,Supermarket Type1,3904.917
+20.7,Low Fat,0.0,Household,74.3354,2009,Medium,Tier 3,Supermarket Type2,1880.885
+9.895,,0.060017128,Household,230.8642,1987,High,Tier 3,Supermarket Type1,4414.9198
+7.27,Regular,0.071188446,Soft Drinks,111.9518,1999,Medium,Tier 1,Supermarket Type1,1138.518
+18.0,,0.073490977,Canned,157.3972,2009,Medium,Tier 3,Supermarket Type2,778.986
+14.65,Low Fat,0.171355643,Fruits and Vegetables,47.6692,2004,Small,Tier 2,Supermarket Type1,739.038
+9.195,Low Fat,0.078060601,Meat,106.3596,1997,Small,Tier 1,Supermarket Type1,2912.2092
+8.775,Regular,0.0,Dairy,45.9428,1987,High,Tier 3,Supermarket Type1,790.9704
+19.85,,0.044566659,Dairy,88.5856,1999,Medium,Tier 1,Supermarket Type1,703.0848
+9.0,,0.019536981,Household,170.0474,1999,Medium,Tier 1,Supermarket Type1,4211.185
+17.1,Low Fat,0.067141355,Household,114.586,2004,Small,Tier 2,Supermarket Type1,2942.836
+15.2,,0.019018943,Snack Foods,238.7248,1987,High,Tier 3,Supermarket Type1,1659.1736
+8.38,,0.04688734,Baking Goods,107.957,1997,Small,Tier 1,Supermarket Type1,2966.139
+16.35,,0.0,Fruits and Vegetables,196.3426,2009,Medium,Tier 3,Supermarket Type2,1384.1982
+15.1,Regular,0.052329172,Meat,243.1512,2004,Small,Tier 2,Supermarket Type1,4604.6728
+7.405,,0.159165324,Dairy,207.1296,2004,Small,Tier 2,Supermarket Type1,3739.1328
+15.1,Regular,0.055829496,Household,140.2496,2004,Small,Tier 2,Supermarket Type1,2681.8424
+18.2,Low Fat,0.058707159,Household,220.5456,2009,Medium,Tier 3,Supermarket Type2,3094.6384
+7.05,Regular,0.08509812,Snack Foods,108.2912,1999,Medium,Tier 1,Supermarket Type1,2293.0152
+20.2,,0.011820087,Household,151.634,1997,Small,Tier 1,Supermarket Type1,1990.742
+6.215,Regular,0.012138795,Fruits and Vegetables,39.2848,1987,High,Tier 3,Supermarket Type1,521.9872
+6.365,Regular,0.007342171,Frozen Foods,59.9536,1987,High,Tier 3,Supermarket Type1,980.0576
+19.1,Low Fat,0.038531668,Fruits and Vegetables,210.6586,1987,High,Tier 3,Supermarket Type1,5487.5236
+12.5,,0.006765149,Household,41.7112,1997,Small,Tier 1,Supermarket Type1,383.5008
+18.7,Low Fat,0.091560606,Meat,182.3292,2004,Small,Tier 2,Supermarket Type1,3831.0132
+9.6,,0.014200671,Snack Foods,187.1872,1987,High,Tier 3,Supermarket Type1,3214.4824
+11.8,Low Fat,0.093655728,Snack Foods,127.1704,1997,Small,Tier 1,Supermarket Type1,3004.0896
+7.02,,0.0,Fruits and Vegetables,148.1734,2009,Medium,Tier 3,Supermarket Type2,890.8404
+14.5,,0.041214746,Canned,42.0454,1987,High,Tier 3,Supermarket Type1,629.181
+9.8,Low Fat,0.14118383,Baking Goods,50.5008,2009,Medium,Tier 3,Supermarket Type2,253.004
