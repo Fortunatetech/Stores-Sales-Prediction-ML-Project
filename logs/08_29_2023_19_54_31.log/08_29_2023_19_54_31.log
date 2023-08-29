@@ -1,0 +1,17 @@
+[ 2023-08-29 19:54:32,901 ] 24 root - INFO - Entered the data ingestion method or component
+[ 2023-08-29 19:54:32,918 ] 27 root - INFO - Read the dataset as dataframe
+[ 2023-08-29 19:54:32,973 ] 34 root - INFO - Train test split initiated
+[ 2023-08-29 19:54:33,039 ] 42 root - INFO - Data Injection Completted completed
+[ 2023-08-29 19:54:33,040 ] 27 root - INFO - Entered the data cleaning method or component
+[ 2023-08-29 19:54:33,080 ] 32 root - INFO - Read the dataset as dataframe
+[ 2023-08-29 19:54:33,092 ] 47 root - INFO - directory created
+[ 2023-08-29 19:54:33,111 ] 51 root - INFO - Train data saved
+[ 2023-08-29 19:54:33,118 ] 53 root - INFO - Test data saved
+[ 2023-08-29 19:54:33,118 ] 55 root - INFO - Train and test data cleaned
+[ 2023-08-29 19:54:33,153 ] 65 root - INFO - Read train and test data completed
+[ 2023-08-29 19:54:33,153 ] 67 root - INFO - Obtaining preprocessing object
+[ 2023-08-29 19:54:33,153 ] 39 root - INFO - Features to labelencode: ['Item_Fat_Content', 'Outlet_Size', 'Outlet_Location_Type']
+[ 2023-08-29 19:54:33,153 ] 40 root - INFO - Features to one-hot-encode: ['Item_Type', 'Outlet_Type']
+[ 2023-08-29 19:54:33,153 ] 41 root - INFO - Features to scale: ['Item_Weight', 'Item_MRP', 'Outlet_Age']
+[ 2023-08-29 19:54:33,153 ] 52 root - INFO - Train test split initiated
+[ 2023-08-29 19:54:33,154 ] 76 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

@@ -101,11 +101,11 @@ class ModelTrainer:
             ]
             best_model = models[best_model_name]
 
-            if best_model_score < 0.6:
-                try:
-                    raise CustomException("No best model found", sys.exc_info())
-                except CustomException as e:
-                    print(e)
+           # if best_model_score < 0.6:
+            #    try:
+                   # raise CustomException("No best model found", sys.exc_info())
+                #except CustomException as e:
+                #    print(e)
             logging.info(f"Best found model on both training and testing dataset")
 
             save_object(
@@ -117,6 +117,7 @@ class ModelTrainer:
 
             r2_square = r2_score(y_test, predicted)
             return r2_square,best_model_name
+            logging.info(f"Best found model on both training and testing dataset:", best_model_name, r2_square)
 
 
         except Exception as e:
