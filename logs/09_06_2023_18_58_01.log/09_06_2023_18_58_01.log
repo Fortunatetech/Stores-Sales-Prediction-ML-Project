@@ -1,0 +1,11 @@
+[ 2023-09-06 18:58:01,544 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-06 18:58:01,547 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-09-06 18:58:04,860 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:04] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-06 18:58:04,876 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:04] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-06 18:58:08,264 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:08] "GET / HTTP/1.1" 200 -
+[ 2023-09-06 18:58:18,119 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:18] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-06 18:58:18,149 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:18] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-06 18:58:29,468 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:29] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-06 18:58:29,482 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:29] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-06 18:58:43,717 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:43] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-06 18:58:43,732 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:58:43] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -

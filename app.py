@@ -13,7 +13,7 @@ app=application
 
 @app.route('/')
 def index():
-    return render_template('index.html') 
+    return render_template('index.html')
 
 @app.route('/predictdata',methods=['GET','POST'])
 def predict_datapoint():
@@ -37,7 +37,9 @@ def predict_datapoint():
 
         predict_pipeline=PredictPipeline()
         results=predict_pipeline.predict(pred_df)
-        return render_template('home.html',results=results[0])
+        # Round up the result to 2 decimal places and include the US dollar symbol
+        return render_template('home.html', results=f'Prediction based on your inputs is ${results[0]:.2f}')
+
     
 
 if __name__=="__main__":

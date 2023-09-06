@@ -1,0 +1,9 @@
+[ 2023-09-06 18:49:30,447 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-06 18:49:30,570 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-09-06 18:50:23,697 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:50:23] "GET / HTTP/1.1" 200 -
+[ 2023-09-06 18:50:23,810 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:50:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-09-06 18:50:29,121 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:50:29] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-06 18:50:29,139 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:50:29] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-06 18:51:06,041 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:51:06] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-06 18:51:06,071 ] 187 werkzeug - INFO - 127.0.0.1 - - [06/Sep/2023 18:51:06] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-06 18:52:37,147 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\desktop\\ineuron\\sales prediction project\\app.py', reloading

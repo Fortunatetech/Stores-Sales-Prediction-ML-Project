@@ -1,0 +1,13 @@
+[ 2023-09-11 15:19:03,532 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-11 15:19:03,536 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-09-11 15:19:05,243 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:19:05] "GET / HTTP/1.1" 200 -
+[ 2023-09-11 15:19:05,244 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:19:05] "GET / HTTP/1.1" 200 -
+[ 2023-09-11 15:19:05,257 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:19:05] "GET / HTTP/1.1" 200 -
+[ 2023-09-11 15:19:07,268 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:19:07] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-11 15:19:07,298 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:19:07] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-11 15:19:53,046 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:19:53] "GET / HTTP/1.1" 200 -
+[ 2023-09-11 15:20:55,841 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:20:55] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-11 15:20:55,887 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:20:55] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-11 15:21:26,370 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:21:26] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-11 15:21:26,386 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:21:26] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-11 15:26:11,398 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Desktop\\iNeuron\\Sales Prediction Project\\app.py', reloading

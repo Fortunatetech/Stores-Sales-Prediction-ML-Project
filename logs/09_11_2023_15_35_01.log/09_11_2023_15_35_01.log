@@ -1,0 +1,4 @@
+[ 2023-09-11 15:35:01,956 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-11 15:35:01,958 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-09-11 15:35:05,187 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:35:05] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-11 15:35:05,202 ] 187 werkzeug - INFO - 127.0.0.1 - - [11/Sep/2023 15:35:05] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
