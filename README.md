@@ -1,6 +1,6 @@
 # Sales Prediction Project
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.0.1-brightgreen)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange)
 
