@@ -118,16 +118,17 @@
 
     <section>
       <h2>Info About Input Features</h2>
-      <p>
-          The features required for the sale predictions are as follows:
-        Item_Weight: Item Weight is the Weight of product. You can only input a float number and the number ranges from 4.56 to 21.35
-        Item_Fat_Content: This is Whether the product is low fat or Regular. You can only input a string value.
-        Item_Type: The category to which the product belongs . You can only input a string value.
-        Item_MRP : float,
-        Outlet_Size: str,
-        Outlet_Location_Type: str,
-        Outlet_Type: str,
-        Outlet_Age: int               </p>
+      <p>The features required for the sale predictions are as follows:</p>
+      <ol>
+        <li>Item_Weight: Item Weight is the Weight of product. You can only input a float number and the number ranges from 4.56 to 21.35</li>
+        <li>Item_Fat_Content: This is Whether the product is low fat or Regular. You can only input a string value.</li>
+        <li>Item_Type: The category to which the product belongs . You can only input a string value.</li>
+        <li>Item_MRP : You can only input a float number.</li>
+        <li>Outlet_Size: You can only input a string.</li>
+        <li>Outlet_Location_Type: You can only input a string.</li>
+        <li>Outlet_Type: You can only input a string.</li>
+        <li>Outlet_Age: The Store age. You can only input an integer value and the value starts from 14 </li>
+      </ol>             
       </section>
 
     <section>
@@ -140,11 +141,15 @@
         >.
       </p>
     </section>
-    <section>
-      <h2>Real-time Demo</h2>
-      <!-- Embed your Flask app demo here if possible -->
-      <!-- Example: <iframe src="your_demo_url" width="100%" height="500"></iframe> -->
-    </section>
+<section>
+    <h2>Real-time Demo</h2>
+    <!-- Embed your Flask app demo here if possible -->
+    <!-- Example: <iframe src="your_demo_url" width="100%" height="500"></iframe> -->    
+    <video controls width="640" height="360">
+        <source src="{{ url_for('static', filename='Sales Prediction demo.webm') }}" type="video/webm">
+        Your browser does not support the video tag.
+    </video>
+</section>
     <section>
       <h2>Explore the Code</h2>
       <p>
