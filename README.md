@@ -74,3 +74,4 @@ If you'd like to contribute to this project, please open an issue or submit a pu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[screencast-127.0.0.1_5000-2023.09.06-18_59_33.webm](https://github.com/Fortunatetech/Stores-Sales-Prediction-ML-Project/assets/104451288/7c7629e9-385d-4a11-a5d0-4bf07c927e42)
