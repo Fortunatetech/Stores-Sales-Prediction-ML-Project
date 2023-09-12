@@ -1,0 +1,18 @@
+[ 2023-09-12 16:20:01,440 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-12 16:20:01,490 ] 187 werkzeug - INFO -  * Debugger PIN: 141-564-236
+[ 2023-09-12 16:20:25,901 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:20:25] "GET / HTTP/1.1" 200 -
+[ 2023-09-12 16:20:28,734 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:20:28] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2023-09-12 16:20:33,832 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:20:33] "GET / HTTP/1.1" 200 -
+[ 2023-09-12 16:20:48,255 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:20:48] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2023-09-12 16:21:09,393 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:21:09] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-12 16:21:09,507 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:21:09] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-12 16:21:51,278 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:21:51] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-12 16:21:51,575 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:21:51] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-12 16:22:12,926 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:22:12] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-09-12 16:22:13,059 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:22:13] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-12 16:30:44,409 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:30:44] "GET / HTTP/1.1" 200 -
+[ 2023-09-12 16:30:44,449 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:30:44] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2023-09-12 16:30:44,453 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:30:44] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2023-09-12 16:30:46,135 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:30:46] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-09-12 16:30:46,155 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:30:46] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-09-12 16:30:47,801 ] 187 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2023 16:30:47] "GET / HTTP/1.1" 200 -
