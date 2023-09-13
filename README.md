@@ -16,6 +16,9 @@ In the dynamic world of retail, accurate sales predictions are crucial for optim
 
 I've embarked on a journey to build a robust sales prediction model that considers a multitude of variables. My data preprocessing pipeline handles categorical and numeric features with finesse, including clever strategies for encoding, one-hot encoding, and scaling. But I didn't stop there!
 
+
+[screencast-127.0.0.1_5000-2023.09.06-18_59_33.webm](https://github.com/Fortunatetech/Stores-Sales-Prediction-ML-Project/assets/104451288/82d3211b-9224-45c9-967b-6213aab3402a)
+
 ## Taking Flight with Flask
 
 To make my predictions accessible and actionable, I've developed a user-friendly Flask web app. Now, anyone can interact with my model, input their data, and get instant sales forecasts – all through a clean and intuitive interface.
@@ -75,4 +78,3 @@ If you'd like to contribute to this project, please open an issue or submit a pu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[screencast-127.0.0.1_5000-2023.09.06-18_59_33.webm](https://github.com/Fortunatetech/Stores-Sales-Prediction-ML-Project/assets/104451288/3c259688-55c9-4e4e-9f40-fabcc79bdcc7)
